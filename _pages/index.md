@@ -3,7 +3,7 @@ layout: single
 permalink: /
 sidebar:
      - title: "Title"
-       image: /assets/images/i3.png
+       image: /assets/images/wue1.png
        image_alt: "image"
        text: "Some text here."
      - title: "Another Title"
