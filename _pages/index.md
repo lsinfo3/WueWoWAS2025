@@ -6,10 +6,7 @@ sidebar:
      - title: "Important Dates"
        #image: /assets/images/wue1.jpg
        #image_alt: "image"
-       text: "
-       - Submission Deadline: xyz
-       - Notification: xyz
-       - In-Person Event: xyz"
+       text: "- Submission Deadline: xyz<br>- Notification: xyz<br>- In-Person Event: xyz"
      - title: "Another Title"
        text: "More text here."
 excerpt: "Würzburg Workshop on XYZ<br>12 - 17 July 2022"
