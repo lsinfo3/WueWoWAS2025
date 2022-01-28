@@ -2,10 +2,10 @@
 layout: single
 permalink: /
 sidebar:
-     - title: "Title"
-       image: /assets/images/wue1.png
+     - title: "Important Dates"
+       image: /assets/images/wue1.jpg
        image_alt: "image"
-       text: "Some text here."
+       text: "Submission Deadline: xyz <br> Notification: xyz <br> In-Person Event: xyz"
      - title: "Another Title"
        text: "More text here."
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
