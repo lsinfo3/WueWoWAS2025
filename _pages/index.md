@@ -10,8 +10,7 @@ sidebar:
        text: "More text here."
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/wue_header.jpg
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/wue_header2.jpg
   actions:
     - label: "News"
       url: "/news/"      
