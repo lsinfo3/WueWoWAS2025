@@ -31,6 +31,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: false
       excerpt: "Würzburg Workshop on XYZ<br>12 - 17 July 2022"
       header:

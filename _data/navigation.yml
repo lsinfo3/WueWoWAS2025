@@ -1,5 +1,10 @@
 main:
   - title: "Home"
     url: /
+  - title: "News"
+    url: /news/
   - title: "Program"
     url: /program/
+  - title: "Registration"
+    url: /registration/
+
