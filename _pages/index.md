@@ -8,7 +8,7 @@ sidebar:
        text: "Submission Deadline: xyz <br> Notification: xyz <br> In-Person Event: xyz"
      - title: "Another Title"
        text: "More text here."
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+excerpt: "Würzburg Workshop on XYZ<br>12 - 17 July 2022"
 header:
   overlay_image: /assets/images/wue_header2.jpg
   actions:
