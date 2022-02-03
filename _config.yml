@@ -1,9 +1,11 @@
-title: Your awesome title
-email: your-email@example.com
+title: Würzburg Workshop on Next-Generation Communication Networks
+email: wuewowas22@informatik.uni-wuerzburg.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  WueWoWAS'22 is a three-day workshop on next-generation communication networks.
+  The goal of the workshop is to provide attendees with an opportunity to
+  foster both their understanding of the current state of the art and to
+  learn from experienced researchers in the field.
+
 baseurl: "WueWoWas2022" # the subpath of your site, e.g. /blog
 
 # Theme settings
@@ -45,7 +47,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
-      excerpt: "Würzburg Workshop on XYZ<br>12 - 17 July 2022"
+      excerpt: "Würzburg Workshop on Next-Generation Communication Networks<br>12 - 17 July 2022"
       header:
         overlay_image: /assets/images/wue_header2.jpg
         actions:
