@@ -47,7 +47,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
-      excerpt: "Würzburg Workshop on Next-Generation Communication Networks<br>12 - 17 July 2022"
+      excerpt: "Würzburg Workshop on Next-Generation Communication Networks<br>12 - 14 July 2022"
       header:
         overlay_image: /assets/images/wue_header2.jpg
         actions:
