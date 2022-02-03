@@ -1,8 +1,7 @@
 ---
+title: News
 permalink: /news/
 ---
-
-# News
 
 <ul>
   {% for post in site.posts %}
