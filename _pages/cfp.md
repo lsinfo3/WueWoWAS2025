@@ -29,9 +29,7 @@ Conversion notes:
 
 [https://lsinfo3.github.io/WueWoWas2022/](https://lsinfo3.github.io/WueWoWas2022/)
 
-The Würzburg Workshop on Modeling, Measurements, Simulation and Analysis of Next-Generation Communication Networks (WüWoWAS’22)  focuses on preliminary and ongoing research (or previously published hot topic papers) on next-generation communication networks. General topics include but are not limited to
-
-
+The KuVS Fachgespräch - Würzburg Workshop on Modeling, Analysis and Simulation of Next-Generation Communication Networks (WüWoWAS’22) focuses on preliminary and ongoing research (or previously published hot topic papers) on next-generation communication networks. General topics include but are not limited to
 
 * Next-generation network architectures and services: 5G, 6G, IoT, Industrial networks
 * Concepts for future networks: softwarization, edge computing, AI and ML, automation.
