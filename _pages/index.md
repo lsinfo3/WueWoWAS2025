@@ -2,6 +2,6 @@
 permalink: /   
 ---
 
-# WueWoWAS'22
+# WueWoWas'22
 
 Some information comes here.

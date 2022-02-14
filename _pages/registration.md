@@ -1,4 +1,5 @@
 ---
+title: Registration
 permalink: /registration/
 ---
 

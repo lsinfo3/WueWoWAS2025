@@ -3,6 +3,8 @@ main:
     url: /
   - title: "News"
     url: /news/
+  - title: "CfP"
+    url: /cfp/
   - title: "Program"
     url: /program/
   - title: "Registration"
