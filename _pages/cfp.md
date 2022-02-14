@@ -92,5 +92,5 @@ Details regarding the registration process will be provided later.
 
 
 * KuVS: Communication and Distributed Systems
-* ITG 521: Systen Architecture and Traffic Engineering
+* ITG 521: System Architecture and Traffic Engineering
 * MMB: Conference on Measurement, Modelling and Evaluation of Computing Systems
