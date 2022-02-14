@@ -3,28 +3,6 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.414 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Mon Feb 14 2022 02:52:28 GMT-0800 (PST)
-* Source doc: Call for Participation: Würzburg Workshop on Next-Generation Communication Networks (WüWoWAS’22)
------>
-
-
 **Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks (WüWoWAS’22)**
 
 [https://lsinfo3.github.io/WueWoWas2022/](https://lsinfo3.github.io/WueWoWas2022/)
@@ -49,8 +27,6 @@ Details regarding the workshop program will be provided at a later date.
 
 **Important Dates**
 
-
-
 * Abstract registration: 29.04.2022
 * Notification of acceptance: 15.05.2022
 * In-Person Event: 11.07.2022 - 13.07.2022
@@ -69,8 +45,6 @@ Details regarding the registration process will be provided later.
 
 **Organization Committee**
 
-
-
 * General Chair: Stefan Geißler (Univ. Würzburg)
 * Tobias Hoßfeld (Univ. Würzburg)
 * Wolfgang Kellerer (TU München)
@@ -82,15 +56,11 @@ Details regarding the registration process will be provided later.
 
 **Industrial Support**
 
-
-
 * Infosim GmbH & Co. KG
 * EMnify GmbH
 
 **Technical Co-Sponsorship**
 
-
-
-* KuVS: Communication and Distributed Systems
-* ITG 521: System Architecture and Traffic Engineering
-* MMB: Conference on Measurement, Modelling and Evaluation of Computing Systems
+* GI/ITG KuVS: Communication and Distributed Systems
+* ITG FA KT 2: Communication Networks and Systems
+* GI/ITG MMB: Measurement, Modelling and Evaluation of Computing Systems
