@@ -50,5 +50,5 @@ defaults:
       header:
         overlay_image: /assets/images/wue_header2.jpg
         actions:
-          - label: "News"
-            url: "/news/"  
+          - label: "CfP"
+            url: "/cfp/"  
