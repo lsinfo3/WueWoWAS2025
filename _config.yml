@@ -52,3 +52,8 @@ defaults:
         actions:
           - label: "CfP"
             url: "/cfp/"  
+
+footer:
+  links:
+    - label: "Impressum"
+      url: "/impressum/"
