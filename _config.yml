@@ -50,7 +50,7 @@ defaults:
       header:
         overlay_image: /assets/images/wue_header2.jpg
         actions:
-          - label: "CfP"
+          - label: "Call for Participation"
             url: "/cfp/"  
 
 footer:
