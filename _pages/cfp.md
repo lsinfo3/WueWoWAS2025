@@ -33,7 +33,7 @@ Details regarding the workshop program will be provided at a later date.
 
 **Paper Submissions**
 
-Authors are invited to submit original unpublished, early stage research written in English in PDF format. Submissions will be subjected to a peer-review process. Papers should be submitted in IEEE 2-column format, with paper length up to 3 pages including references (4 pages including references) through the EDAS conference management system. Accepted abstracts will be published open access through Würzburg University Press and indexed in search engines and digital library catalogs.
+Authors are invited to submit original unpublished, early stage research written in English in PDF format. Submissions will be subjected to a peer-review process. Papers should be submitted in IEEE 2-column format, with paper length up to 3 pages excluding references (4 pages including references) through the EDAS conference management system. Accepted abstracts will be published open access through Würzburg University Press and indexed in search engines and digital library catalogs.
 
 Authors of the top-ranked papers accepted for publication in WüWoWAS’22 proceedings will be invited to submit an extended version to an international journal (more information will be provided later). Authors should register and upload paper submissions via the EDAS conference system ([https://edas.info/N29362](https://edas.info/N29362)).
 
