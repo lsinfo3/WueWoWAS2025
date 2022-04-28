@@ -64,3 +64,4 @@ Details regarding the registration process will be provided later.
 * GI/ITG KuVS: Communication and Distributed Systems
 * ITG FA KT 2: Communication Networks and Systems
 * GI/ITG MMB: Measurement, Modelling and Evaluation of Computing Systems
+* Sonderforschungsbereich MAKI – Multi-Mechanismen-Adaption für das künftige Internet
