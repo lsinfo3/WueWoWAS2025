@@ -45,4 +45,6 @@ The two workshop days will include all the sessions to present preliminary work 
 
 The two workshop days will start at 9:00 and we aim for a farewell at 15:00 on Wednesday.
 
+There will be a social dinner on Tuesday evening.
+
 Details will follow soon.
