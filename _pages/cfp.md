@@ -3,7 +3,7 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Extended Deadline: May 06 | Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks (WüWoWAS’22)**
+**Extended Deadline: May 06 - Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks (WüWoWAS’22)**
 
 [https://lsinfo3.github.io/WueWoWas2022/](https://lsinfo3.github.io/WueWoWas2022/)
 
