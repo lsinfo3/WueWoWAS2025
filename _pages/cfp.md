@@ -27,7 +27,7 @@ Details regarding the workshop program will be provided at a later date.
 
 **Important Dates**
 
-* Abstract registration: 06.05.2022
+* New abstract registration: 06.05.2022
 * Notification of acceptance: 15.05.2022
 * In-Person Event: 11.07.2022 - 13.07.2022
 
