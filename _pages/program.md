@@ -7,8 +7,6 @@ permalink: /program/
 
 Detailed information regarding the program for the workshop will be provided at a later date.
 
-## Preliminary Program
-
 ### Monday, 11.07.2022 -- Tutorial Day
 
 The first day will be filled with tutorials regarding the performance evaluation of generation network technologies.
