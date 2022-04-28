@@ -45,4 +45,28 @@ The two workshop days will start at 9:00 and we aim for a farewell at 15:00 on W
 
 There will be a social dinner on Tuesday evening.
 
+##### Tuesday
+
+<tbody>
+  <tr>
+    <td class="tg-0lax">9:00 - 17:00</td>
+    <td class="tg-0lax">Technical Sessions and Discussions</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">18:00 - 23:00</td>
+    <td class="tg-0lax">Social Dinner</td>
+  </tr>
+</tbody>
+</table>
+
+##### Wednesday
+
+<tbody>
+  <tr>
+    <td class="tg-0lax">9:00 - 15:00</td>
+    <td class="tg-0lax">Technical Sessions and Discussions</td>
+  </tr>
+</tbody>
+</table>
+
 Details will follow soon.
