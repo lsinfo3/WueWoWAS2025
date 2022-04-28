@@ -41,7 +41,9 @@ Authors of selected papers will be invited to submit an extended version to the 
 
 **Registration**
 
-Details regarding the registration process will be provided later.
+* Workshop registration will be handled via the EDAS Conference and Journal Management System.
+* Participation fee will be 100€ for all participants and will cover lunch and social dinner.
+* A link to register will be provided on our website soon: https://lsinfo3.github.io/WueWoWas2022/registration/
 
 **Organization Committee**
 
