@@ -47,6 +47,7 @@ There will be a social dinner on Tuesday evening.
 
 ##### Tuesday
 
+<table class="tg">
 <tbody>
   <tr>
     <td class="tg-0lax">9:00 - 17:00</td>
@@ -61,6 +62,7 @@ There will be a social dinner on Tuesday evening.
 
 ##### Wednesday
 
+<table class="tg">
 <tbody>
   <tr>
     <td class="tg-0lax">9:00 - 15:00</td>
