@@ -3,6 +3,17 @@ title: Program
 permalink: /program/
 ---
 
+# Program
+
+<figure>
+	<a href="{{ '/assets/images/workshop_program.png' | relative_url }}" class="image-popup">
+    <img src="{{ '/assets/images/workshop_program.png' | relative_url }}">
+  </a>
+	  <figcaption>
+      Program for all three days: Tutorials on Monday, Technical Sessions and Discussion Slots on Tuesday and Wednesday.
+    </figcaption>
+</figure>
+
 # List of Accepted Papers
 
 * Accelerating a Transport Layer Based 5G Multi-Access Proxy on SmartNIC - Rebecka Alfredsson; Andreas J. Kassler; Jonathan Vestin; Marcus Pieska; Markus Amend
@@ -19,15 +30,4 @@ permalink: /program/
 * Static Evaluation of a Wheel-Topology for an SDN-Based Network Usecase - Dimitrios Savvidis; Robert Roth
 * Towards Stateless Core Networks: Measuring State Access Patterns - Malte Höweler; Zuo Xiang; Franz Höpfner; Giang T. Nguyen; Frank H.P. Fitzek
 * Virtual Queues for QoS Compliance of Haptic Data Streams in Teleoperation - Osel Lhamo; Giang T. Nguyen; Frank H.P. Fitzek
-
-# Program
-
-<figure>
-	<a href="{{ '/assets/images/workshop_program.png' | relative_url }}" class="image-popup">
-    <img src="{{ '/assets/images/workshop_program.png' | relative_url }}">
-  </a>
-	  <figcaption>
-      Program for all three days: Tutorials on Monday, Technical Sessions and Discussion Slots on Tuesday and Wednesday.
-    </figcaption>
-</figure>
 
