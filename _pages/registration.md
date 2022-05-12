@@ -9,4 +9,4 @@ Workshop registration will be handled via the EDAS Conference and Journal Manage
 
 <b>Participation fee will be 100€ for all participants and will cover lunch and social dinner.<b>
 
-A link to register will be provided soon.
+Please use the following link to register for the workshop: **https://edas.info/r29362**
