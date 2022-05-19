@@ -9,6 +9,10 @@ main:
     url: /program/
   - title: "Registration"
     url: /registration/
+  - title: "Author Information"
+    url: /authors/
+  - title: "Venue"
+    url: /venue/
   - title: "Contact"
     url: /contact/
 
