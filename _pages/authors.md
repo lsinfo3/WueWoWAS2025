@@ -7,7 +7,7 @@ permalink: /authors/
 
 We invite all authors of accepted submissions to provide a camera ready version of their paper via EDAS by June 10.
 
-We also invite authors, same as all other participants, to register for the workshop via EDAS: [Registration](https://edas.info/r29362)
+We also invite authors, same as all other participants, to register for the workshop via EDAS: [Registration](https://lsinfo3.github.io/WueWoWas2022/registration/)
 
 # At the Workshop
 
