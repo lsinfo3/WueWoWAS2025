@@ -68,40 +68,40 @@ TODO
     <td class="tg-0pky">LoRaWAN Network Planning in Smart Environments: Towards Reliability, Scalability, and Cost Reduction - Frank Loh; Stefan Geissler; Tobias Hoßfeld</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">14:00 - 15:30</td>
-    <td class="tg-0lax">Technical Session 3: Realtime and TSN (Chair: Andreas Kassler)</td>
+    <td class="tg-0pky">14:00 - 15:30</td>
+    <td class="tg-0pky">Technical Session 3: Realtime and TSN (Chair: Andreas Kassler)</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Next-Generation Satellite Communication Networks - Jörg Deutschmann; Kai-Steffen Hielscher; Reinhard German</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Next-Generation Satellite Communication Networks - Jörg Deutschmann; Kai-Steffen Hielscher; Reinhard German</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks - Nurefşan Sertbaş Bülbül; Doğanalp Ergenç; Mathias Fischer</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks - Nurefşan Sertbaş Bülbül; Doğanalp Ergenç; Mathias Fischer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Affordable Measurement Setups for Networking Device Latency with Sub-Microsecond Accuracy - Alexej Grigorjew; Philip Diederich; Tobias Hoßfeld; Wolfgang Kellerer</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Affordable Measurement Setups for Networking Device Latency with Sub-Microsecond Accuracy - Alexej Grigorjew; Philip Diederich; Tobias Hoßfeld; Wolfgang Kellerer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">16:00 - 17:00</td>
-    <td class="tg-0lax">Discussion Slot 1: Scientific Point of View on 5G and Beyond (Moderator: Poul Heegaard)</td>
+    <td class="tg-0pky">16:00 - 17:00</td>
+    <td class="tg-0pky">Discussion Slot 1: Scientific Point of View on 5G and Beyond (Moderator: Poul Heegaard)</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">from 19:00</td>
-    <td class="tg-0lax">Social Dinner at Restaurant Alter Kranen, Kranenkai 1, 97070 Würzburg</td>
+    <td class="tg-0pky">from 19:00</td>
+    <td class="tg-0pky">Social Dinner at Restaurant Alter Kranen, Kranenkai 1, 97070 Würzburg</td>
   </tr>
 </tbody>
 </table>
