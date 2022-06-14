@@ -108,7 +108,76 @@ TODO
 
 # Thursday, July 13
 
-TODO
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">9:00 - 10:30</th>
+    <th class="tg-0pky">Technical Session 4: Theory and Models (Chair: Udo Krieger)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Reproducible by Design: Network Experiments with Pos - Sebastian Gallenmüller; Dominik Scholz; Henning Stubbe; Eric Hauser; Georg Carle</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Response Times in Time-To-Live Caching Hierarchies Under Random Network Delays - Karim Elsayed; Amr Rizk</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Effective Rate of URLLC with Short Block-Length Information Theory - Najib Odhah; Eckhard Grass; Rolf Kraemer</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:00 - 12:30</td>
+    <td class="tg-0pky">Technical Session 5: 5G and Beyond (Chair: Dirk Staehle)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Virtual Queues for QoS Compliance of Haptic Data Streams in Teleoperation - Osel Lhamo; Giang T. Nguyen; Frank H.P. Fitzek</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Towards Stateless Core Networks: Measuring State Access Patterns - Malte Höweler; Zuo Xiang; Franz Höpfner; Giang T. Nguyen; Frank H.P. Fitzek</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Accelerating a Transport Layer Based 5G Multi-Access Proxy on SmartNIC - Rebecka Alfredsson; Andreas J. Kassler; Jonathan Vestin; Marcus Pieska; Markus Amend</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:00 - 15:30</td>
+    <td class="tg-0pky">Discussion Slot 2: Industrial Point of View on 5G and Beyond (Moderator: tbd)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Next-Generation Satellite Communication Networks - Jörg Deutschmann; Kai-Steffen Hielscher; Reinhard German</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks - Nurefşan Sertbaş Bülbül; Doğanalp Ergenç; Mathias Fischer</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Affordable Measurement Setups for Networking Device Latency with Sub-Microsecond Accuracy - Alexej Grigorjew; Philip Diederich; Tobias Hoßfeld; Wolfgang Kellerer</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:30 - 16:00</td>
+    <td class="tg-0pky">Wrapup and Farewell</td>
+  </tr>
+</tbody>
+</table>
 
 # List of Accepted Papers
 
