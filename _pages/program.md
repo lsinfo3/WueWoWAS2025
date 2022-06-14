@@ -18,7 +18,40 @@ permalink: /program/
 
 # Monday, July 11
 
-TODO
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">10:30 - 11:00</th>
+    <th class="tg-0pky">Registration and Welcome</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:00 - 13:00</td>
+    <td class="tg-0pky">Tutorial 1: Discrete-time Analysis using python (Tobias Hoßfeld)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:00 - 15:30</td>
+    <td class="tg-0pky">Tutorial 2: Simulations using r-simmer (Stefan Geißler)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:30 - Open End</td>
+    <td class="tg-0pky">Open Discussions, Free Session and Get-together</td>
+  </tr>
+</tbody>
+</table>
 
 # Tuesday, July 12
 
