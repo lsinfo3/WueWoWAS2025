@@ -66,6 +66,14 @@ permalink: /program/
 <table class="tg">
 <tbody>
   <tr>
+    <th class="tg-0pky">9:00 - 9:30</th>
+    <th class="tg-0pky">Registration and Welcome</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
     <th class="tg-0pky">9:30 - 10:30</th>
     <th class="tg-0pky">Technical Session 1: SDN and NFV (Chair: Amr Rizk)</th>
   </tr>
