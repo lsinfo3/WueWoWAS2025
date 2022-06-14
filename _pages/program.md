@@ -144,7 +144,7 @@ permalink: /program/
 </tbody>
 </table>
 
-# Thursday, July 13
+# Wednesday, July 13
 
 <table class="tg">
 <tbody>
