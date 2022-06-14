@@ -31,24 +31,24 @@ permalink: /program/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11:00 - 13:00</td>
-    <td class="tg-0pky">Tutorial 1: Discrete-time Analysis using python (Tobias Hoßfeld)</td>
+    <th class="tg-0pky">11:00 - 13:00</th>
+    <th class="tg-0pky">Tutorial 1: Discrete-time Analysis using python (Tobias Hoßfeld)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">14:00 - 15:30</td>
-    <td class="tg-0pky">Tutorial 2: Simulations using r-simmer (Stefan Geißler)</td>
+    <th class="tg-0pky">14:00 - 15:30</th>
+    <th class="tg-0pky">Tutorial 2: Simulations using r-simmer (Stefan Geißler)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">15:30 - Open End</td>
-    <td class="tg-0pky">Open Discussions, Free Session and Get-together</td>
+    <th class="tg-0pky">15:30 - Open End</th>
+    <th class="tg-0pky">Open Discussions, Free Session and Get-together</th>
   </tr>
 </tbody>
 </table>
@@ -85,8 +85,8 @@ permalink: /program/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11:00 - 12:30</td>
-    <td class="tg-0pky">Technical Session 2: Internet of Things (Chair: Stanislav Lange)</td>
+    <th class="tg-0pky">11:00 - 12:30</th>
+    <th class="tg-0pky">Technical Session 2: Internet of Things (Chair: Stanislav Lange)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -105,8 +105,8 @@ permalink: /program/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">14:00 - 15:30</td>
-    <td class="tg-0pky">Technical Session 3: Realtime and TSN (Chair: Andreas Kassler)</td>
+    <th class="tg-0pky">14:00 - 15:30</th>
+    <th class="tg-0pky">Technical Session 3: Realtime and TSN (Chair: Andreas Kassler)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -125,16 +125,16 @@ permalink: /program/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">16:00 - 17:00</td>
-    <td class="tg-0pky">Discussion Slot 1: Scientific Point of View on 5G and Beyond (Moderator: Poul Heegaard)</td>
+    <th class="tg-0pky">16:00 - 17:00</th>
+    <th class="tg-0pky">Discussion Slot 1: Scientific Point of View on 5G and Beyond (Moderator: Poul Heegaard)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">from 19:00</td>
-    <td class="tg-0pky">Social Dinner at Restaurant Alter Kranen, Kranenkai 1, 97070 Würzburg</td>
+    <th class="tg-0pky">from 19:00</th>
+    <th class="tg-0pky">Social Dinner at Restaurant Alter Kranen, Kranenkai 1, 97070 Würzburg</th>
   </tr>
 </tbody>
 </table>
@@ -166,8 +166,8 @@ permalink: /program/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11:00 - 12:30</td>
-    <td class="tg-0pky">Technical Session 5: 5G and Beyond (Chair: Dirk Staehle)</td>
+    <th class="tg-0pky">11:00 - 12:30</th>
+    <th class="tg-0pky">Technical Session 5: 5G and Beyond (Chair: Dirk Staehle)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -186,8 +186,8 @@ permalink: /program/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">14:00 - 15:30</td>
-    <td class="tg-0pky">Discussion Slot 2: Industrial Point of View on 5G and Beyond (Moderator: tbd)</td>
+    <th class="tg-0pky">14:00 - 15:30</th>
+    <th class="tg-0pky">Discussion Slot 2: Industrial Point of View on 5G and Beyond (Moderator: tbd)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -206,8 +206,8 @@ permalink: /program/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">15:30 - 16:00</td>
-    <td class="tg-0pky">Wrapup and Farewell</td>
+    <th class="tg-0pky">15:30 - 16:00</th>
+    <th class="tg-0pky">Wrapup and Farewell</th>
   </tr>
 </tbody>
 </table>
