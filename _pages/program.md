@@ -18,14 +18,22 @@ permalink: /program/
 
 # Monday, July 11
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-0pky">10:30 - 11:00</th>
     <th class="tg-0pky">Registration and Welcome</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -55,23 +63,12 @@ permalink: /program/
 
 # Tuesday, July 12
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-0pky">9:30 - 10:30</th>
     <th class="tg-0pky">Technical Session 1: SDN and NFV (Chair: Amr Rizk)</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Static Evaluation of a Wheel-Topology for an SDN-Based Network Usecase - Dimitrios Savvidis; Robert Roth</td>
@@ -142,13 +139,11 @@ permalink: /program/
 # Thursday, July 13
 
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-0pky">9:00 - 10:30</th>
     <th class="tg-0pky">Technical Session 4: Theory and Models (Chair: Udo Krieger)</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Reproducible by Design: Network Experiments with Pos - Sebastian Gallenmüller; Dominik Scholz; Henning Stubbe; Eric Hauser; Georg Carle</td>
