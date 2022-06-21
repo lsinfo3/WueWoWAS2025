@@ -194,18 +194,6 @@ permalink: /program/
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Next-Generation Satellite Communication Networks - Jörg Deutschmann; Kai-Steffen Hielscher; Reinhard German</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks - Nurefşan Sertbaş Bülbül; Doğanalp Ergenç; Mathias Fischer</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Affordable Measurement Setups for Networking Device Latency with Sub-Microsecond Accuracy - Alexej Grigorjew; Philip Diederich; Tobias Hoßfeld; Wolfgang Kellerer</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
