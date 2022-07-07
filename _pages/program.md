@@ -131,7 +131,7 @@ permalink: /program/
   </tr>
   <tr>
     <th class="tg-0pky">16:00 - 17:00</th>
-    <th class="tg-0pky">Discussion Slot 1: Scientific Point of View on 5G and Beyond (Moderator: Poul Heegaard)</th>
+    <th class="tg-0pky">Discussion Slot 1: Scientific Point of View on 5G and Beyond (Moderator: Poul Heegaard; NTNU)</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -190,7 +190,7 @@ permalink: /program/
   </tr>
   <tr>
     <th class="tg-0pky">14:00 - 15:30</th>
-    <th class="tg-0pky">Discussion Slot 2: Industrial Point of View on 5G and Beyond (Moderator: tbd)</th>
+    <th class="tg-0pky">Discussion Slot 2: Industrial Point of View on 5G and Beyond (Moderator: Steffen Gebert; EMnify))</th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
