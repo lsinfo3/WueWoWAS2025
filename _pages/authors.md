@@ -37,3 +37,5 @@ Note also, that `tidyverse` has several non-R dependencies that need to be insta
 `sudo apt install libcurl4-openssl-dev libssl-dev libxml2-dev`
 
 After that, simply run `install.packages("tidyverse")` in RStudio to install the package.
+
+Additional material will be provided via github: [here](https://github.com/lsinfo3/simmer-tutorial-WueWoWas2022)
