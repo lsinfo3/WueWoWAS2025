@@ -48,7 +48,7 @@ permalink: /program/
   </tr>
   <tr>
     <th class="tg-0pky">14:00 - 15:30</th>
-    <th class="tg-0pky">Tutorial 2: Simulations using r-simmer (Stefan Geißler) -- <a href=https://github.com/lsinfo3/simmer-tutorial-WueWoWas2022>GitHub Repository</a></th>
+    <th class="tg-0pky">Tutorial 2: Simulations using r-simmer (Stefan Geißler) -- <a href="https://github.com/lsinfo3/simmer-tutorial-WueWoWas2022">GitHub Repository</a></th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
