@@ -40,7 +40,7 @@ permalink: /program/
   </tr>
   <tr>
     <th class="tg-0pky">11:00 - 13:00</th>
-    <th class="tg-0pky">Tutorial 1: Discrete-time Analysis using python (Tobias Hoßfeld)</th>
+    <th class="tg-0pky">Tutorial 1: Discrete-time Analysis using python (Tobias Hoßfeld) -- <a href="https://modeling.systems/"> Open access book, lecture slides (Chapter 5.1 & 6) and scripts (Chapter 6.4 & 7.6) </a> </th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -48,7 +48,7 @@ permalink: /program/
   </tr>
   <tr>
     <th class="tg-0pky">14:00 - 15:30</th>
-    <th class="tg-0pky">Tutorial 2: Simulations using r-simmer (Stefan Geißler)</th>
+    <th class="tg-0pky">Tutorial 2: Simulations using r-simmer (Stefan Geißler) -- <a href=https://github.com/lsinfo3/simmer-tutorial-WueWoWas2022>GitHub Repository</a></th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
