@@ -182,7 +182,7 @@ permalink: /program/
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Accelerating a Transport Layer Based 5G Multi-Access Proxy on SmartNIC - Rebecka Alfredsson; Andreas J. Kassler; Jonathan Vestin; Marcus Pieska; Markus Amend (<a href="{{ '/assets/slides/kassler.pdf' | relative_url }}">Presentation</a>)</td>
+    <td class="tg-0pky">Accelerating a Transport Layer Based 5G Multi-Access Proxy on SmartNIC - Rebecka Alfredsson; Andreas J. Kassler; Jonathan Vestin; Marcus Pieska; Markus Amend</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
