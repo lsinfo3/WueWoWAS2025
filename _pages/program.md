@@ -204,7 +204,7 @@ permalink: /program/
 </table>
 
 # List of Accepted Papers
-
+Download papers at <a href="https://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/collection/id/16504/start/-90/rows/100"> OPUS </a>
 * _Accelerating a Transport Layer Based 5G Multi-Access Proxy on SmartNIC_ - Rebecka Alfredsson; Andreas J. Kassler; Jonathan Vestin; Marcus Pieska; Markus Amend
 * _Affordable Measurement Setups for Networking Device Latency with Sub-Microsecond Accuracy_ - Alexej Grigorjew; Philip Diederich; Tobias Hoßfeld; Wolfgang Kellerer
 * _Cloudless Resource Monitoring in a Fog Computing System Enabled by an SDN/NFV Infrastructure_ - Duy Thanh Le; Marcel Großmann; Udo R. Krieger
