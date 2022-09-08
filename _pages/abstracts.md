@@ -1,4 +1,9 @@
-# Presentations and Abstract 
+---
+title: Presentations and Abstracts
+permalink: /abstracts/
+---
+
+# Presentations and Abstracts 
 Download all papers at <a href="https://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/collection/id/16504/start/-90/rows/100"> OPUS </a>.
 
 * _Accelerating a Transport Layer Based 5G Multi-Access Proxy on SmartNIC_ - Rebecka Alfredsson; Andreas J. Kassler; Jonathan Vestin; Marcus Pieska; Markus Amend (<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/6/rows/100/docId/28079">Abstract</a>)
