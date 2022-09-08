@@ -5,6 +5,8 @@ main:
     url: /cfp/
   - title: "Program"
     url: /program/
+  - title: "Download"
+    url: /program/
   - title: "Contact"
     url: /contact/
 
