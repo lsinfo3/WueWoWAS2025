@@ -3,10 +3,10 @@ main:
     url: /
   - title: "CfP"
     url: /cfp/
-  - title: "Program"
-    url: /program/
-  - title: "Download"
-    url: /abstracts/
+ # - title: "Program"
+ #  url: /program/
+ # - title: "Download"
+ #   url: /abstracts/
   - title: "Contact"
     url: /contact/
 

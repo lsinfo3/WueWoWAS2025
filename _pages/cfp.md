@@ -3,58 +3,63 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Extended Deadline: May 06 - Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks (WüWoWAS’22)**
+**Call for Participation: KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks (WüWoWAS’23)**
 
-[https://lsinfo3.github.io/WueWoWas2022/](https://lsinfo3.github.io/WueWoWas2022/)
+28.06.2023 - 30.06.2023, Würzburg, Germany
 
-The KuVS Fachgespräch - Würzburg Workshop on Modeling, Analysis and Simulation of Next-Generation Communication Networks (WüWoWAS’22) focuses on preliminary and ongoing research (or previously published hot topic papers) on next-generation communication networks. General topics include but are not limited to
+[https://lsinfo3.github.io/WueWoWas2023/](https://lsinfo3.github.io/WueWoWas2023/)
+
+
+The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks
+(WüWoWAS’23) focuses on preliminary and ongoing research (or previously published hot topic papers) on next-generation
+communication networks. General topics include but are not limited to
 
 * Next-generation network architectures and services: 5G, 6G, IoT, Industrial networks
 * Concepts for future networks: softwarization, edge computing, AI and ML, automation.
-* Evaluation of performance, reliability and resilience: measurements, modeling, simulation, analysis on QoS, QoE, energy efficiency, etc.
+* Evaluation of performance, reliability and resilience: measurements, modeling, simulation, analysis on QoS, QoE, energy
+efficiency, etc.
 
-The workshop will take place in-person in Würzburg, Germany from 11.07.2022 until 13.07.2022. We encourage PhD students, early career scientists as well as senior researchers to contribute early state and ongoing research or previously published hot topic papers in the form of extended abstracts no longer than 3 pages excluding references.
+The workshop will take place in-person in Würzburg, Germany from 28.06.2023 until 30.06.2023. We encourage PhD students, early
+career scientists as well as senior researchers to contribute early state and ongoing research or previously published hot topic
+papers in the form of extended abstracts no longer than 3 pages excluding references.
 
-The goal of the workshop is to foster communication among researchers from industry and academia. To this end, invited experience talks and discussion slots on important topics in NGN are an integral part of the program.
+The goal of the workshop is to foster communication among researchers from industry and academia. To this end, invited experience
+talks and discussion slots on important topics in NGN are an integral part of the program.
 
 **Preliminary Program**
 
-The program will include dedicated time slots to discuss and brainstorm on dedicated topics in next-generation networks in a Dagstuhl-like format, moderated by TPC members that will participate in the workshop. These sessions will cover hot topics in networking.
+The program will include dedicated time slots to discuss and brainstorm on a broad range of topics in next-generation networks in a
+Dagstuhl-like format, moderated by TPC members that will participate in the workshop. These sessions will cover hot topics in
+networking.
 
-Further, there will be a tutorial on the practical implementation of performance evaluation methodologies.
+Further, there will be tutorials on the practical application of evaluation methodologies. The specific speakers will be announced on the workshop website at a later date.
 
 Details regarding the workshop program will be provided at a later date.
 
 **Important Dates**
 
-* New abstract registration: 06.05.2022
-* Notification of acceptance: 15.05.2022
-* In-Person Event: 11.07.2022 - 13.07.2022
+* Abstract registration and submission: 05.05.2023
+* Notification of acceptance: 19.05.2023
+* In-Person Event: 28.06.2023 - 30.06.2023
 
 **Paper Submissions**
 
-Authors are invited to submit original unpublished, early stage research written in English in PDF format. Submissions will be subjected to a peer-review process. Papers should be submitted in IEEE 2-column format, with paper length up to 3 pages excluding references (4 pages including references) through the EDAS conference management system. Accepted abstracts will be published open access through Würzburg University Press and indexed in search engines and digital library catalogs.
+Authors are invited to submit original unpublished, early stage research written in English in PDF format. Submissions will be
+subjected to a peer-review process. Papers should be submitted in IEEE 2-column format, with paper length up to 3 pages including
+references (4 pages including references) through the EDAS conference management system. Accepted abstracts will be published
+open access through Würzburg University Press and indexed in search engines and digital library catalogs.
 
-Authors of the top-ranked papers accepted for publication in WüWoWAS’22 proceedings will be invited to submit an extended version to an international journal (more information will be provided later). Authors should register and upload paper submissions via the EDAS conference system ([https://edas.info/N29362](https://edas.info/N29362)).
-
-Authors of selected papers will be invited to submit an extended version to the IEEE Transactions on Network and Service Management (TNSM) journal.
+Authors should register and upload paper submissions via the EDAS conference system (https://edas.info/N30789).
 
 **Registration**
 
-* Workshop registration will be handled via the EDAS Conference and Journal Management System.
-* Participation fee will be 100€ for all participants and will cover lunch and social dinner.
-* A link to register will be provided on our website soon: [https://lsinfo3.github.io/WueWoWas2022/registration/](https://lsinfo3.github.io/WueWoWas2022/registration/)
+Details regarding the registration process will be provided later.
 
 **Organization Committee**
 
 * General Chair: Stefan Geißler (Univ. Würzburg)
+* General Chair: Amr Rizk (Univ. Duisburg-Essen)
 * Tobias Hoßfeld (Univ. Würzburg)
-* Wolfgang Kellerer (TU München)
-* Poul E. Heegaard (NTNU Trondheim)
-* Falko Dressler (TU Berlin)
-* Filip De Turck (Ghent University)
-* Andreas Timm-Giel (TU Hamburg)
-* Udo Krieger (Univ. Bamberg)
 
 **Industrial Support**
 
@@ -65,5 +70,4 @@ Authors of selected papers will be invited to submit an extended version to the 
 
 * GI/ITG KuVS: Communication and Distributed Systems
 * ITG FA KT 2: Communication Networks and Systems
-* GI/ITG MMB: Measurement, Modelling and Evaluation of Computing Systems
-* Sonderforschungsbereich MAKI – Multi-Mechanismen-Adaption für das künftige Internet
+* GI/ITG MMB: Measurement, Modelling and Evaluation of Computing Systems 
