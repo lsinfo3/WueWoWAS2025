@@ -7,7 +7,7 @@ permalink: /cfp/
 
 28.06.2023 - 30.06.2023, Würzburg, Germany
 
-[https://lsinfo3.github.io/WueWoWas2023/](https://lsinfo3.github.io/WueWoWas2023/)
+[https://lsinfo3.github.io/WueWoWAS2023/](https://lsinfo3.github.io/WueWoWAS2023/)
 
 
 The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks
