@@ -10,7 +10,7 @@ main:
  # - title: "Download"
  #   url: /abstracts/
   - title: Archive
-    sublinks:
+    children:
       - title: "WueWoWAS'22"
         url: "https://lsinfo3.github.io/WueWoWas2022/"
   - title: "Contact"
