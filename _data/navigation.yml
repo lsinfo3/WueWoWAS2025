@@ -10,8 +10,8 @@ main:
  # - title: "Download"
  #   url: /abstracts/
   - title: Archive
-    subfolderitems:
-      - page: "WueWoWAS'22"
+    sublinks:
+      - title: "WueWoWAS'22"
         url: "https://lsinfo3.github.io/WueWoWas2022/"
   - title: "Contact"
     url: /contact/
