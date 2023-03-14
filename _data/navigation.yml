@@ -9,8 +9,8 @@ main:
  #  url: /program/
  # - title: "Download"
  #   url: /abstracts/
-  - title: "WueWoWAS'22"
-    url: "https://lsinfo3.github.io/WueWoWas2022/"
+  - title: "Archive"
+    url: /archive/
   - title: "Contact"
     url: /contact/
 
