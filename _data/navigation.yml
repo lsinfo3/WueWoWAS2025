@@ -9,6 +9,8 @@ main:
  #  url: /program/
  # - title: "Download"
  #   url: /abstracts/
+  - title: "Archive"
+    url: /archive/
   - title: "Contact"
     url: /contact/
 
