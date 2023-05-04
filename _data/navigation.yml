@@ -5,6 +5,8 @@ main:
     url: /cfp/
   - title: "Venue"
     url: /venue/
+  - title: "Registration"
+    url: /registration/
  # - title: "Program"
  #  url: /program/
  # - title: "Download"
