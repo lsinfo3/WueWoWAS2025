@@ -10,196 +10,37 @@ permalink: /program/
     <img src="{{ '/assets/images/workshop_program.png' | relative_url }}">
   </a>
 	  <figcaption>
-      Program for all three days: Tutorials on Monday, Technical Sessions and Discussion Slots on Tuesday and Wednesday.
+      Program for all three days: Tutorials on Wednesday, Technical Sessions and Discussion Slots on Thursday and Friday.
     </figcaption>
 </figure>
 
 # Detailed Program
 
-# Monday, July 11
+# TS1 - 5G and Beyond (75 min; 3 Slots á 22 min)
+- On Data Plane Multipath Scheduling for Connected Mobility Applications - *Martin Herrmann and Amr Rizk (University of Duisburg-Essen, Germany)*
+- JCAS-Enabled Sensing as a Service in 6th-Generation Mobile Communication Networks - *Christof Rauber and Lukas Brechtel (DFKI, Germany); Hans Dieter Schotten (Deutsches Forschungszentrum für Künstliche Intelligenz GmbH, Germany)*
+- Towards Understanding the Signaling Traffic in 5G Core Networks - *Simon Raffeck and Stefan Geissler (University of Wuerzburg, Germany); Tobias Hoßfeld (University of Würzburg, Germany)*
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;background-color: #FEFEFE;color: #252A34;font-weight: bold;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+# TS2 - 5G and Beyond (90 min; 4 Slots á 22 min)
+- Towards Understanding the Global IPX Network from an MVNO Perspective - *Viktoria Vomhoff (University of Würzburg, Germany); Stefan Geissler (University of Wuerzburg, Germany); Steffen Gebert (EMnify GmbH, Germany); Tobias Hoßfeld (University of Würzburg, Germany)*
+- Towards a 5G Satellite Communication Framework for V2X - *Luigi Martino, Jörg Deutschmann and Kai-Steffen J. Hielscher (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany); Reinhard German (University of Erlangen, Germany)*
+- Paving the Way for an Energy Efficient and Sustainable Future Internet of Things - *Frank Loh, Simon Raffeck and Stefan Geissler (University of Wuerzburg, Germany); Tobias Hoßfeld (University of Würzburg, Germany)*
+- Accelerating Transport Layer Multipath Packet Scheduling for 5G-ATSSS - *Fabian Brisch (Hochschule Osnabrück, Germany); Andreas J. Kassler, Jonathan Vestin and Marcus Pieska (Karlstad University, Sweden); Markus Amend (Deutsche Telekom, Germany)*
 
-<table class="tg">
-<tbody>
-  <tr>
-    <th class="tg-0pky">10:30 - 11:00</th>
-    <th class="tg-0pky">Registration and Welcome</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">11:00 - 13:00</th>
-    <th class="tg-0pky">Tutorial 1: Discrete-time Analysis using python (Tobias Hoßfeld) -- <a href="https://modeling.systems/"> Open access book, lecture slides (Chapter 5.1 & 6) and scripts (Chapter 6.4 & 7.6) </a> </th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">14:00 - 15:30</th>
-    <th class="tg-0pky">Tutorial 2: Simulations using r-simmer (Stefan Geißler) -- <a href="https://github.com/lsinfo3/simmer-tutorial-WueWoWas2022">GitHub Repository</a></th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">15:30 - Open End</th>
-    <th class="tg-0pky">Open Discussions, Free Session and Get-together</th>
-  </tr>
-</tbody>
-</table>
+# TS3 - TSN and Caching (90 min; 4 Slots á 22 min)
+- Never Miss Twice - Add-On-Miss Table Updates in Software Data Planes - *Manuel Simon and Sebastian Gallenmüller (Technical University of Munich, Germany); Georg Carle (Technische Universität München, Germany)*
+- Multiple DCLC Routing Algorithms for Ultra-Reliable and Time-Sensitive Applications - *Piyush Navade and Lisa Maile (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany); Reinhard German (University of Erlangen, Germany)*
+- Performance Analysis of Basic Web Caching Strategies (LFU, LRU, FIFO, ...) with Time-To-Live Data Validation - *Gerhard Hasslinger (Deutsche Telekom, Germany); Konstantinos Ntougias (University of Cyprus, Cyprus); Frank Hasslinger (TUDa, Germany); Oliver Hohlfeld (Brandenburg University of Technology, Germany)*
+- Online Algorithm for Arrival & Service Curve Estimation - *Christoph Funda (Friedrich-Alexander University Erlangen-Nuremberg, Germany & ZF Mobility Solutions GmbH, Germany); Pablo Marin (FAU Erlangen-Nuremberg, Germany); Reinhard German (University of Erlangen, Germany); Kai-Steffen J. Hielscher (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)*
 
-# Tuesday, July 12
+# TS4 - Measurement and Modeling (75 min; 3 Slots á 22 min)
+- Understanding the Performance of Different Packet Reception and Timestamping Methods in Linux - *Alexej Grigorjew and Lukas Kilian Schumann (University of Wuerzburg, Germany); Philip Diederich (Technical University of Munich, Germany); Tobias Hoßfeld (University of Würzburg, Germany); Wolfgang Kellerer (Technische Universität München, Germany)*
+- Using P4-INT on Tofino for Measuring Device Performance Characteristics in a Network Lab - *Sadok Mehdi Mazigh, Marcel Beausencourt and Max Julius Bode (Hochschule Für Technik Und Wirtschaft, Germany); Thomas Scheffler (Hochschule für Technik und Wirtschaft Berlin, Germany)*
+- How to Model and Predict the Scalability of a Hardware-In-The-Loop Test Bench for Data Re-Injection? - *Christoph Funda (Friedrich-Alexander University Erlangen-Nuremberg, Germany & ZF Mobility Solutions GmbH, Germany); Tobias Konheiser (ZF Mobility Solutions GmbH, Germany); Reinhard German (University of Erlangen, Germany); Kai-Steffen J. Hielscher (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany)*
 
-<table class="tg">
-<tbody>
-  <tr>
-    <th class="tg-0pky">9:00 - 9:30</th>
-    <th class="tg-0pky">Registration and Welcome</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">9:30 - 10:30</th>
-    <th class="tg-0pky">Technical Session 1: SDN and NFV (Chair: Amr Rizk)</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Static Evaluation of a Wheel-Topology for an SDN-Based Network Usecase - Dimitrios Savvidis; Robert Roth (<a href="{{ '/assets/slides/dimitrios.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/13/rows/100/docId/28071">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Cloudless Resource Monitoring in a Fog Computing System Enabled by an SDN/NFV Infrastructure - Duy Thanh Le; Marcel Großmann; Udo R. Krieger (<a href="{{ '/assets/slides/thanh-le.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/12/rows/100/docId/28072">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">11:00 - 12:30</th>
-    <th class="tg-0pky">Technical Session 2: Internet of Things (Chair: Stanislav Lange)</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">DBM: Decentralized Burst Mitigation for Self-Organizing LoRa Deployments - Simon Raffeck; Stefan Geissler; Tobias Hoßfeld (<a href="{{ '/assets/slides/raffeck.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/5/rows/100/docId/28080">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Identification of Signaling Patterns in Mobile IoT Signaling Traffic - Viktoria Vomhoff; Stefan Geissler; Tobias Hoßfeld (<a href="{{ '/assets/slides/vomhoff.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/4/rows/100/docId/28081">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">LoRaWAN Network Planning in Smart Environments: Towards Reliability, Scalability, and Cost Reduction - Frank Loh; Stefan Geissler; Tobias Hoßfeld (<a href="{{ '/assets/slides/loh.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/2/rows/100/docId/28082">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">14:00 - 15:30</th>
-    <th class="tg-0pky">Technical Session 3: Realtime and TSN (Chair: Andreas Kassler)</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Next-Generation Satellite Communication Networks - Jörg Deutschmann; Kai-Steffen Hielscher; Reinhard German (<a href="{{ '/assets/slides/deutschmann.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/11/rows/100/docId/28073">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Evaluating Dynamic Path Reconfiguration for Time Sensitive Networks - Nurefşan Sertbaş Bülbül; Doğanalp Ergenç; Mathias Fischer (<a href="{{ '/assets/slides/buelbuel.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/10/rows/100/docId/28074">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Affordable Measurement Setups for Networking Device Latency with Sub-Microsecond Accuracy - Alexej Grigorjew; Philip Diederich; Tobias Hoßfeld; Wolfgang Kellerer (<a href="{{ '/assets/slides/grigorjew.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/9/rows/100/docId/28075">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">16:00 - 17:00</th>
-    <th class="tg-0pky">Discussion Slot 1: Scientific Point of View on 5G and Beyond (Moderator: Poul Heegaard; NTNU)</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">from 19:00</th>
-    <th class="tg-0pky">Social Dinner at Restaurant Alter Kranen, Kranenkai 1, 97070 Würzburg</th>
-  </tr>
-</tbody>
-</table>
-
-# Wednesday, July 13
-
-<table class="tg">
-<tbody>
-  <tr>
-    <th class="tg-0pky">9:00 - 10:30</th>
-    <th class="tg-0pky">Technical Session 4: Theory and Models (Chair: Udo Krieger)</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Reproducible by Design: Network Experiments with Pos - Sebastian Gallenmüller; Dominik Scholz; Henning Stubbe; Eric Hauser; Georg Carle (<a href="{{ '/assets/slides/gallenmueller.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/1/rows/100/docId/28083">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Response Times in Time-To-Live Caching Hierarchies Under Random Network Delays - Karim Elsayed; Amr Rizk (<a href="{{ '/assets/slides/elsayed.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/0/rows/100/docId/28084">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Effective Rate of URLLC with Short Block-Length Information Theory - Najib Odhah; Eckhard Grass; Rolf Kraemer (<a href="{{ '/assets/slides/odhah.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/3/rows/100/docId/28085">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">11:00 - 12:30</th>
-    <th class="tg-0pky">Technical Session 5: 5G and Beyond (Chair: Dirk Staehle)</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Virtual Queues for QoS Compliance of Haptic Data Streams in Teleoperation - Osel Lhamo; Giang T. Nguyen; Frank H.P. Fitzek (<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/8/rows/100/docId/28076">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Towards Stateless Core Networks: Measuring State Access Patterns - Malte Höweler; Zuo Xiang; Franz Höpfner; Giang T. Nguyen; Frank H.P. Fitzek (<a href="{{ '/assets/slides/hoeweler.pdf' | relative_url }}">Presentation</a>,<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/7/rows/100/docId/28077">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Accelerating a Transport Layer Based 5G Multi-Access Proxy on SmartNIC - Rebecka Alfredsson; Andreas J. Kassler; Jonathan Vestin; Marcus Pieska; Markus Amend (<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/searchtype/collection/id/16504/start/6/rows/100/docId/28079">Abstract</a>)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">14:00 - 15:30</th>
-    <th class="tg-0pky">Discussion Slot 2: Industrial Point of View on 5G and Beyond (Moderator: Steffen Gebert; EMnify))</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <th class="tg-0pky">15:30 - 16:00</th>
-    <th class="tg-0pky">Wrapup and Farewell</th>
-  </tr>
-</tbody>
-</table>
+# TS5 - Tools and Edge Cloud (90 min; 4 Slots á 22 min)
+- Emulation of Multipath Transmissions in P4 Networks with Kathará - *Marcel Großmann and Tobias Homeyer (University of Bamberg, Germany)*
+- Visualization of Network Emulation Enabled by Katharà - *Marcel Großmann and Duy Thanh Le (University of Bamberg, Germany)*
+- Federated Learning for Service Placement in Fog and Edge Computing - *Manuel Dworzak, Marcel Großmann and Duy Thanh Le (University of Bamberg, Germany)*
+- Challenges of Serverless Deployment in Edge-MEC-Cloud - *Kien Nguyen and Frank Loh (University of Wuerzburg, Germany); Tobias Hoßfeld (University of Würzburg, Germany)*
 
