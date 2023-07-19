@@ -3,6 +3,13 @@ permalink: /
 ---
 # WueWoWAS'23
 
+# Best Workshop Contribution WueWoWas'22
+
+We congratulate *Manuel Simon*, *Sebastian Gallenmüller* and *Georg Carle* for receiving the *Best Workshop Contribution Award* at WueWoWAS'23 for their work titled *Never Miss Twice - Add-On-Miss Table Updates in Software Data Planes*.
+
+<img src="{{ '/assets/images/bpa23_cropped.jpeg' | relative_url }}" alt="image" style="width: 100%; margin-bottom: 10px;">
+<img src="{{ '/assets/images/bpa23_doc.png' | relative_url }}" alt="image" style="width: 100%; margin-bottom: 10px;">
+
 WueWoWAS'23 is a three-day workshop on next-generation communication networks. The goal of the workshop is to provide attendees with an opportunity to foster both their understanding of the current state of the art and to learn from experienced researchers in the field.
 
 The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks
