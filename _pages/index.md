@@ -3,7 +3,7 @@ permalink: /
 ---
 # WueWoWAS'23
 
-# Best Workshop Contribution WueWoWas'22
+# Best Workshop Contribution WueWoWas'23
 
 We congratulate *Manuel Simon*, *Sebastian Gallenmüller* and *Georg Carle* for receiving the *Best Workshop Contribution Award* at WueWoWAS'23 for their work titled *Never Miss Twice - Add-On-Miss Table Updates in Software Data Planes*.
 
