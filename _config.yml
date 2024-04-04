@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   foster both their understanding of the current state of the art and to
   learn from experienced researchers in the field.
 
-baseurl: "WueWoWAS2023" # the subpath of your site, e.g. /blog
+baseurl: "WueWoWAS2024" # the subpath of your site, e.g. /blog
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
