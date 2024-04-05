@@ -1,7 +1,7 @@
 #title: Würzburg Workshop on Next-Generation Communication Networks
 email: wuewowas23@informatik.uni-wuerzburg.de
 description: >- # this means to ignore newlines until "baseurl:"
-  WueWoWAS'23 is a three-day workshop on next-generation communication networks. The goal of the workshop is to provide attendees with an opportunity to
+  WueWoWAS'24 is a two-day workshop on next-generation communication networks. The goal of the workshop is to provide attendees with an opportunity to
   foster both their understanding of the current state of the art and to
   learn from experienced researchers in the field.
 
@@ -56,4 +56,4 @@ defaults:
 footer:
   links:
     - label: "Impressum"
-      url: "/WueWoWAS2023/impressum/"
+      url: "/WueWoWAS2024/impressum/"
