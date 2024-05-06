@@ -5,10 +5,10 @@ main:
     url: /cfp/
   - title: "Venue"
     url: /venue/
-  - title: "Download"
-    url: /abstracts/
-  - title: "Program"
-    url: /program/
+#  - title: "Download"
+ #   url: /abstracts/
+ # - title: "Program"
+ #   url: /program/
  # - title: "Download"
  #   url: /abstracts/
   - title: "Archive"
