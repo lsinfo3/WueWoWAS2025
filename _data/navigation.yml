@@ -3,6 +3,10 @@ main:
     url: /
   - title: "CfP"
     url: /cfp/
+  - title: "Program"
+    url: /program/
+  - title: "Speedmentoring"
+    url: /mentoring/
   - title: "Venue"
     url: /venue/
 #  - title: "Download"
