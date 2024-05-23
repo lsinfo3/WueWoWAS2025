@@ -46,7 +46,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
-      excerpt: "KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks<br>30.09.2024 - 01.10.2024"
+      excerpt: "KuVS Fachgespräch - Würzburg Workshop on 6G Networks<br>30.09.2024 - 01.10.2024"
       header:
         overlay_image: /assets/images/wue_header2.jpg
         actions:
