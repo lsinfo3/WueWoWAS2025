@@ -9,7 +9,7 @@ permalink: /cfp/
 https://lsinfo3.github.io/WueWoWAS2024/
 
 
-The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks with a special focus on 6G Networks and related technologies. (WueWoWAS’24) focuses on preliminary and ongoing research and previously published hot topic papers on next-generation communication networks. General topics include but are not limited to
+The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks with a special focus on 6G Networks and related technologies (WueWoWAS’24) focuses on preliminary and ongoing research and previously published hot topic papers on next-generation communication networks. General topics include but are not limited to
 
 * 6G architectures and technologies: converged and non-terrestrial networks, specialized networks e.g. industrial or IoT networks, integrated sensing, etc. 
 * Concepts for 6G networks: softwarization, edge computing, (explainable) AI and ML, automation, real-time and time-sensitive networking (TSN), etc.
