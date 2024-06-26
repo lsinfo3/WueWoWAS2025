@@ -63,4 +63,5 @@ Details regarding the registration process will be provided at a later date.
 * GI/ITG KuVS: Communication and Distributed Systems
 * ITG FA KT 2: Communication Networks and Systems
 * GI/ITG MMB: Measurement, Modelling and Evaluation of Computing Systems
+* SNS JU Project ORIGAMI
 
