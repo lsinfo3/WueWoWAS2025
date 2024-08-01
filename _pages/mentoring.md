@@ -47,7 +47,7 @@ permalink: /mentoring/
 
 # Speedmentoring
 
-For the first time this year, we will have a speedmentoring session to give participants the chance to get in contact with experts from industry and academia, discuss ongoing research, current developments or other professional mattern.
+For the first time this year, we will have a speedmentoring session to give participants the chance to get in contact with experts from industry and academia, discuss ongoing research, current developments or other professional matters.
 
 The speedmentoring session will take place on Monday, 30.09.2024 and require explicit registration. The registration will be handled via edas during the registration for the workshop.
 
