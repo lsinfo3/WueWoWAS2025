@@ -57,7 +57,7 @@ Note that available mentoring slots are limited and exclusive to participating P
         <div class="content-block">
             <img src="{{ '/assets/images/andra_lutu.jpg' | relative_url }}" alt="Image 1" class="image left">
             <div class="text">
-                <p>Andra is a network architecture expert specializing in next-generation network design, mobile networks, IoT, and traffic engineering. Since July 2021, she has been a Senior Researcher at Telefónica Research in Madrid, Spain. Previously, she held research positions at Telefónica Research in Barcelona and Simula Research Laboratory in Oslo. She earned her Ph.D. in Telematics Engineering from IMDEA Networks Institute and University Carlos III of Madrid in 2014. Her work focuses on improving mobile network performance and user experience.Andra’s work translated into impactful industrial innovation projects, and was published in top venues, including ACM MobiCom, ACM SIGCOMM or IEEE INFOCOM.</p>
+                <p>Andra is a network architecture expert specializing in next-generation network design, mobile networks, IoT, and traffic engineering. Since July 2021, she has been a Senior Researcher at Telefónica Research in Madrid, Spain. Previously, she held research positions at Telefónica Research in Barcelona and Simula Research Laboratory in Oslo. She earned her Ph.D. in Telematics Engineering from IMDEA Networks Institute and University Carlos III of Madrid in 2014. Her work focuses on improving mobile network performance and user experience. Andra’s work translated into impactful industrial innovation projects, and was published in top venues, including ACM MobiCom, ACM SIGCOMM or IEEE INFOCOM.</p>
             </div>
         </div>
         <div class="content-block">
