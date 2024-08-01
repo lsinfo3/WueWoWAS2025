@@ -14,16 +14,6 @@ permalink: /mentoring/
     align-items: center;
     margin-bottom: 20px;
 }
-.content-block:after {
-  content:'';
-  position:absolute;
-  bottom:0;
-  left:0;
-  right:0;
-  background:#FEFEFE;
-  height:4px;
-  border-radius:0 2px 2px 0;
-}
 
 .content-block .text {
     flex: 1;
