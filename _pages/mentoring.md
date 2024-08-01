@@ -51,10 +51,10 @@ Note that available mentoring slots are limited and exclusive to participating P
             </div>
         </div>
         <div class="content-block">
+            <img src="{{ '/assets/images/wolfgang_kellerer.jpg' | relative_url }}" alt="Image 2" class="image left">
             <div class="text">
                 <p>Wolfgang is a full professor and head of the Chair of Communication Networks at the Technical University of Munich (TUM). Renowned for his work on adaptive, programmable communication networks, his research emphasizes flexible resource management to meet diverse requirements like ultra-low latency and 6G resilience. Before joining TUM, he spent over a decade at NTT DOCOMO's European research institute. He has published over 300 papers and holds more than 40 patents. In addition, he received the ERC Consolidator Grant from the European Commission for his research on network flexibility in 2015. He was a co-recipient of the ACM SIGCOMM Best of CCR 2019 award. In 2020, he received the IEEE ComSoc Selected Publication award. He is an IEEE Senior Member and serves as an associate editor for IEEE TNSM and as an area editor for IEEE COMST.</p>
             </div>
-            <img src="{{ '/assets/images/wolfgang_kellerer.jpg' | relative_url }}" alt="Image 2" class="image left">
         </div>
         <div class="content-block">
             <img src="{{ '/assets/images/maciej_muehleisen.jpg' | relative_url }}" alt="Image 3" class="image left">
