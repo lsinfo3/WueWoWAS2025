@@ -27,11 +27,11 @@ permalink: /mentoring/
 }
 
 .content-block .left {
-    order: 1;
+    order: 0;
 }
 
 .content-block .right {
-    order: 2;
+    order: 1;
 }
 </style>
 
