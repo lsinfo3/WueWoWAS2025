@@ -14,6 +14,16 @@ permalink: /mentoring/
     align-items: center;
     margin-bottom: 20px;
 }
+.content-block:after {
+  content:'';
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  background:#FEFEFE;
+  height:4px;
+  border-radius:0 2px 2px 0;
+}
 
 .content-block .text {
     flex: 1;
@@ -52,7 +62,7 @@ The speedmentoring session will take place on Monday, 30.09.2024 and require exp
             <div class="text">
                 <p>Wolfgang is full professor and head of the Chair of Communication Networks in the Department of Computer Engineering of the School of Computation, Information and Technology at Technical University of Munich (TUM), Munich, Germany. He is internationally recognized for his fundamental research on adaptive, programmable communication networks. His focus is on flexible and adaptive resource management and control of communication systems to support heterogeneous requirements including ultra-low latencies, tactile control and resilience towards 6G. Research methods include measurements, optimization, cross-layer-design, performance evaluation and AI for networking. Before he joined TUM, Wolfgang Kellerer pursued an industrial career being more than ten years with NTT DOCOMO's European research institute in Munich, Germany. His last position was head of the research department for wireless communication and networking, contributing to research and standardization of LTE-A and 5G technologies. In 2001, he was a visiting researcher at the Information Systems Laboratory of Stanford University, California, US. He received his Dr.-Ing. degree (Ph.D.) and his Dipl.-Ing. degree (MSc.) from TUM, in 1995 and 2002, respectively. He has published more than 300 papers in respective journals, conferences and workshops and is inventor of more than 40 patents and patent applications in this area. In 2015, he was awarded with the prestigious ERC Consolidator Grant from the European Commission for his research on network flexibility. He was a co-recipient of the ACM SIGCOMM Best of CCR 2019 award. In 2020, he received the IEEE ComSoc Selected Publication award. He currently serves as an associate editor for IEEE Transactions on Network and Service Management and as an area editor for IEEE Communications Surveys and Tutorials. He is a member of ACM, VDE ITG and a Senior Member of IEEE.</p>
             </div>
-            <img src="{{ '/assets/images/wolfgang_kellerer.jpg' | relative_url }}" alt="Image 2" class="image right">
+            <img src="{{ '/assets/images/wolfgang_kellerer.jpg' | relative_url }}" alt="Image 2" class="image left">
         </div>
         <div class="content-block">
             <img src="{{ '/assets/images/maciej_muehleisen.jpg' | relative_url }}" alt="Image 3" class="image left">
