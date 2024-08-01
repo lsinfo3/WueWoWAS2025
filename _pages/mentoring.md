@@ -47,9 +47,11 @@ permalink: /mentoring/
 
 # Speedmentoring
 
-For the first time this year, we will organize a speedmentoring session. The goal is to provide a platform to get in contact with experts from industry and academia and discuss ongoing research, current developments or other professional issues.
+For the first time this year, we will have a speedmentoring session to give participants the chance to get in contact with experts from industry and academia, discuss ongoing research, current developments or other professional mattern.
 
-The speedmentoring session will take place on Monday, 30.09.2024 and require explicit registration.
+The speedmentoring session will take place on Monday, 30.09.2024 and require explicit registration. The registration will be handled via edas during the registration for the workshop.
+
+Note that available mentoring slots are limited and exclusive to participating PhD students. We will try our best to assign the slots equally among the registered students.
 
 <div class="content-container">
         <div class="content-block">
