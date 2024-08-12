@@ -7,9 +7,8 @@ permalink: /registration/
 
 Workshop registration is handled via the EDAS Conference and Journal Management System.
 
-- **Authors are expected to register by 02.06.2022**
-- **All other participants are expected to register by 16.06.2022**
+**Participants are required to register by 06.09.2024**
 
-Participation fee will be **160€ for all participants (authors and non-authors)** and will cover lunch and social dinner.
+Participation fee will be **120€ for all participants (authors and non-authors)** and covers participation, lunch and social dinner.
 
-Please use the following link to register for the workshop: [https://edas.info/r30789](https://edas.info/r30789)
+Please use the following link to register for the workshop: [https://edas.info/r30789](https://edas.info/r32554)
