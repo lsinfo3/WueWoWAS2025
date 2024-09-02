@@ -45,7 +45,7 @@ The program will include regular presentation sessions with ample time for quest
 
 <figure>
 	<a href="{{ '/assets/images/Overall_Program_WueWOWAS2024.png' | relative_url }}" class="image-popup">
-    <img src="{{ '/assets/images/Overall_Program_WueWOWAS2024.png' | relative_url }}">
+    <img src="{{ '/assets/images/Overall_Program_WueWOWAS2024.png' | relative_url }}"  width="75" height="75>
   </a>
 	  <figcaption>
       Program for the WueWoWAS Workshop: Technical Sessions, Speed Mentoring, and VDE ITG KT2 Session.
@@ -69,5 +69,6 @@ The program will include regular presentation sessions with ample time for quest
 			<p>Maciej received his Ph.D. on “Voice over LTE” from RWTH Aachen University in 2015. He worked as a group leader for vehicular communication at Hamburg University of Technology (TUHH) from 2012 until 2016, focusing on highly reliable aircraft and maritime networks, before joining Ericsson Research in 2017. Maciej’s key research interest is in end-to-end design, evaluation and approval of mission- and/or safety-critical communication services. He has been leading Ericsson’s Radio Network Concept for Verticals research group since May 2023. The group is conducting research, often together with ecosystem partners, in domains like manufacturing, connected road vehicles, railways, immersive interactions and Integrated Communication & Sensing (ICAS).</p>
 		</div>
 	</div>
+</div>
 
 ## List of Accepted Papers
