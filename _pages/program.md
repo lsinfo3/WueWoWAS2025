@@ -9,6 +9,15 @@ The program will include regular presentation sessions with ample time for quest
 
 ## Overall Program
 
+<figure>
+	<a href="{{ '/assets/images/Overall_Program_WueWOWAS2024.png' | relative_url }}" class="image-popup">
+    <img src="{{ '/assets/images/Overall_Program_WueWOWAS2024.png' | relative_url }}">
+  </a>
+	  <figcaption>
+      Program for the WueWoWAS Workshop: Technical Sessions, Speed Mentoring, and VDE ITG KT2 Session.
+    </figcaption>
+</figure>
+
 ## Invited Speakers
 
 ## List of Accepted Papers
