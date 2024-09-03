@@ -93,7 +93,7 @@ Session 4: 5G Networks
 - A Framework for 5G and Beyond, Non-Terrestrial Networks, and V2X (**Luigi Martino**; Jörg Deutschmann; Kai-Steffen J. Hielscher; Reinhard German)
 - Towards Modeling the Impact of 5G New Radio on Dataplane Traffic Characteristics (**Simon Raffeck**; Stefan Geissler; Tobias Hoßfeld)
 - Energy Consumption in Converged Networks: A Study of LTE-M and Non-Terrestrial NB-IoT (**Viktoria Vomhoff**; Fabian Poignée; Frank Loh; Stefan Geissler; Tobias Hoßfeld)
-- Towards a Generalizable Fine-Granular 5G Resource-Bound Model (**Simon Raffeck**; Phillip Raffeck)
+- Towards a Generalizable Fine-Granular 5G Resource-Bound Model (Simon Raffeck; **Phillip Raffeck**)
 - Adaptive Traffic Steering for Cellular Networks: Leveraging Predictive QoS Metrics for Application-Specific Optimization (**Nehal Baganal-Krishna**; Amr Rizk)
 
 Session 5: Wireless TSN
