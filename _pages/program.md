@@ -79,31 +79,31 @@ The program will include regular presentation sessions with ample time for quest
 </div>
 
 ## List of Accepted Papers
-Session 1: P4 and Hardware
+Session 1: P4 and Hardware [Chair: Maciej Muehleisen]
 - Honey for the Ice Bear - Dynamic eBPF in P4 (**Manuel Simon**; Henning Stubbe; Sebastian Gallenmüller; Georg Carle)
 - UniCorn-P4: A Universal Control Plane and GUI for P4 (**Fabian Ihle**; Moritz Flüchter; Steffen Lindner; Michael Menth)
 - P4-MTAGG - a Framework for Multi-Tenant P4 Network Devices (**Fabian Brisch**; Andreas J. Kassler; Sándor Laki; Péter Hudoba; Gergely Pongrácz)
 - Utilizing Hybrid P4 Solutions to Enhance 5G gNB with Data Plane Programmability (**Mohsen Memarian**; Andreas J. Kassler; Karl-Johan Grinnemo; Sándor Laki; Gergely Pongrácz; Johan Forsman)
 - Low-Cost Energy Measurement and Multi-Port Traffic Generation for Network Devices (**Noah Mehling**; Frank Loh; Tobias Hoßfeld)
 
-Session 2: Modeling
+Session 2: Modeling [Chair: Christian Henke]
 - Synchronization of Network Digital Twins (**Sai Anirudh Madhavapeddi**; Marton Kajo; Wolfgang Kellerer)
 - Towards Data-Driven Approaches for Network Digital Twins of Microservice-Based Architectures (**Razvan-Mihai Ursu**; Navidreza Asadi; Leon Wong; Wolfgang Kellerer)
 - LRU-BottomUp: A Caching Strategy with Hit Ratio Performance like LRU and Overhead like FIFO (**Gerhard Hasslinger**; Konstantinos Ntougias; Frank Hasslinger; Oliver Hohlfeld)
 
-Session 3: Security/Reliability
+Session 3: Security/Reliability [Chair: Stanislav Lange]
 - Thermal Effects on Timestamping in 100G Networking Devices (**Stefan Lachnit**; Sebastian Gallenmüller; Georg Carle)
 - 5G Security Landscape: Investigating Attack Vectors in 5G and Beyond Networks (**Mehrdad Hajizadeh**; Trung V. Phan; Beny Nugraha; Abhishek Venkatesh Jnanashree; Tim Niehoff; Oliver Krause; Martin Mieth; Thomas Bauschert)
 - Real-Time Monitoring of Software-Defined Networks in Kathará for Denial-Of-Service Attacks (**Marcel Großmann**; Noelle Weinmann)
 
-Session 4: 5G Networks
+Session 4: 5G Networks [Chair: Andra Lutu]
 - A Framework for 5G and Beyond, Non-Terrestrial Networks, and V2X (**Luigi Martino**; Jörg Deutschmann; Kai-Steffen J. Hielscher; Reinhard German)
 - Towards Modeling the Impact of 5G New Radio on Dataplane Traffic Characteristics (**Simon Raffeck**; Stefan Geissler; Tobias Hoßfeld)
 - Energy Consumption in Converged Networks: A Study of LTE-M and Non-Terrestrial NB-IoT (**Viktoria Vomhoff**; Fabian Poignée; Frank Loh; Stefan Geissler; Tobias Hoßfeld)
 - Towards a Generalizable Fine-Granular 5G Resource-Bound Model (**Simon Raffeck**; Phillip Raffeck)
 - Adaptive Traffic Steering for Cellular Networks: Leveraging Predictive QoS Metrics for Application-Specific Optimization (**Nehal Baganal-Krishna**; Amr Rizk)
 
-Session 5: Wireless TSN
+Session 5: Wireless TSN [Chair: Prof. Andreas Kassler]
 - P5G-TSN: A Private 5G TSN Simulation Framework (**Laura Becker**; Wolfgang Kellerer)
 - Research Demand and Review on Deterministic Communication in Hybrid 5G Networks Based on TSN (**Mahmoud Alqudah**; Roman Obermaisser; Kai Daniel)
 - Time-Sensitive Networking over the Air: Combining 5G and TSN (**Alexej Grigorjew**; Simon Raffeck; Stefan Geissler; Tobias Hoßfeld)
