@@ -1,11 +1,11 @@
 #title: Würzburg Workshop on Next-Generation Communication Networks
-email: wuewowas24@informatik.uni-wuerzburg.de
+email: wuewowas25@informatik.uni-wuerzburg.de
 description: >- # this means to ignore newlines until "baseurl:"
-  WueWoWAS'24 is a two-day workshop on next-generation communication networks. The goal of the workshop is to provide attendees with an opportunity to
+  WueWoWAS'25 is a two-day workshop on next-generation communication networks. The goal of the workshop is to provide attendees with an opportunity to
   foster both their understanding of the current state of the art and to
   learn from experienced researchers in the field.
 
-baseurl: "WueWoWAS2024" # the subpath of your site, e.g. /blog
+baseurl: "WueWoWAS2025" # the subpath of your site, e.g. /blog
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -56,4 +56,4 @@ defaults:
 footer:
   links:
     - label: "Impressum"
-      url: "/WueWoWAS2024/impressum/"
+      url: "/WueWoWAS2025/impressum/"
