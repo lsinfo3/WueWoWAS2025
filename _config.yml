@@ -46,7 +46,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
-      excerpt: "KuVS Fachgespräch - Würzburg Workshop on 6G Networks<br>TBA"
+      excerpt: "KuVS Fachgespräch - Würzburg Workshop on 6G Networks<br>6 - 8 Oct 2025"
       header:
         overlay_image: /assets/images/wue_header2.jpg
         actions:
