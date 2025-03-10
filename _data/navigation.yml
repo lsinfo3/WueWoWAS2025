@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
- # - title: "CfP"
- #   url: /cfp/
+  - title: "CfP"
+    url: /cfp/
  # - title: "Program"
  #   url: /program/
  # - title: "Registration"
