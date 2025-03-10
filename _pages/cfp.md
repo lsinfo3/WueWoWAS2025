@@ -1,3 +1,8 @@
+---
+title: CfP
+permalink: /cfp/
+---
+
 # Call for Participation: KuVS Fachgespräch - Würzburg Workshop on 6G Networks (WueWoWAS’25)
 
 6 - 8 October 2025, Würzburg, Germany https://lsinfo3.github.io/WueWoWAS2025/
