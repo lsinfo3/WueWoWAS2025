@@ -11,4 +11,4 @@ permalink: /committee/
 
 # Technical Programm Committee Members:
 
-- tbd
+- TBD
