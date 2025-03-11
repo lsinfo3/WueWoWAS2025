@@ -5,7 +5,7 @@ permalink: /cfp/
 
 # Call for Participation: KuVS Fachgespräch - Würzburg Workshop on 6G Networks (WueWoWAS’25)
 
-6 - 8 October 2025, Würzburg, Germany https://lsinfo3.github.io/WueWoWAS2025/
+6 - 8 October 2025, Würzburg, Germany [https://lsinfo3.github.io/WueWoWAS2025/](https://lsinfo3.github.io/WueWoWAS2025/)
 
 The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks with a special focus on 6G Networks and related technologies (WueWoWAS’25) focuses on preliminary and ongoing research and previously published hot topic papers on next-generation communication networks (NGN). The central theme is 6G networks, covering advanced architectures, technologies and concepts that will enable the next generation of connectivity, intelligence and automation across multiple domains. General topics include but are not limited to
 
@@ -39,14 +39,14 @@ The program will include regular presentation sessions with ample time for quest
 
 Authors are invited to submit original unpublished, early stage research written in English in PDF format. Submissions will be subjected to a peer-review process. Papers should be submitted in IEEE 2-column format, with paper length up to 3 pages excluding references (4 pages including references) through the EDAS conference management system. Accepted abstracts will be published open access through Würzburg University Press and indexed in search engines and digital library catalogs.
 Previously published work should be submitted in the form of a short summary that highlights the key contributions made in the original document. The original publication should be clearly cited in the summary. Hot topic summaries should be no longer than 2 pages including references and will also be included in the open access publication.
-Authors should register and upload paper submissions via the EDAS conference system: 	https://edas.info/N33713
+Authors should register and upload paper submissions via the EDAS conference system: 	[https://edas.info/N33713](https://edas.info/N33713)
 
 ## Registration
 
 Workshop registration is handled via the EDAS Conference and Journal Management System. 
 Participants are required to register by 31 August 2025
 Participation fee will be 150€ for all participants (authors and non-authors) and covers participation, open access publication of accepted abstracts, drinks and lunch on all three days, as well as the social dinner on Monday evening.
-Please use the following link to register for the workshop: https://edas.info/r33713
+Please use the following link to register for the workshop: [https://edas.info/r33713](https://edas.info/r33713)
 
 ## Organization Committee
 
