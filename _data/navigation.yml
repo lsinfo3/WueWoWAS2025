@@ -17,6 +17,8 @@ main:
  #   url: /program/
  # - title: "Download"
  #   url: /abstracts/
+  - title: "Committee"
+    url: /committee/
   - title: "Archive"
     url: /archive/
   - title: "Contact"
