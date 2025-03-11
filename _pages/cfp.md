@@ -54,7 +54,7 @@ Please use the following link to register for the workshop: https://edas.info/r3
 - Amr Rizk (Univ. Hannover)
 - Tobias Hoßfeld (Univ. Würzburg)
 
-## Technical Programm committee members:
+## Technical Programm Committee Members:
 
 - tbd
 
