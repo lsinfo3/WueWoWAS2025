@@ -56,7 +56,7 @@ Please use the following link to register for the workshop: [https://edas.info/r
 
 ## Technical Programm Committee Members:
 
-- tbd
+- TBD
 
 ## Industrial Support
 
