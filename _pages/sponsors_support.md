@@ -56,6 +56,7 @@ We want to express our gratitude to our partners for providing industrial suppor
     Infosim is a global leader in automated network management solutions, providing cutting-edge software for monitoring, optimizing, and securing complex IT and IoT infrastructures. Their flagship product, StableNet®, empowers scientific organizations with real-time visibility, predictive analytics, and streamlined operations—ensuring reliable connectivity and performance for mission-critical research and innovation.
   </div>
 </div>
+
 ## Technical Co-Sponsorship
 
 <figure>
