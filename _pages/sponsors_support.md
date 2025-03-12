@@ -19,13 +19,13 @@ We want to express our gratitude to our partners for providing industrial suppor
 <figure>
   <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 40%; display: inline-block; margin: auto" >
 </figure>
-emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. 
+EMnify is a leading provider of cloud-native IoT connectivity solutions, empowering scientific organizations with secure, global, and scalable cellular connectivity. Their platform enables seamless data transmission for research projects, smart devices, and remote monitoring applications—ensuring reliable communication in even the most challenging environments. 
 
 
 <figure>
   <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 40%; display: inline-block; background-color:white; margin: auto">
 </figure>
-The mission at Infosim® is to be a global leader in the development of innovative Software and IT Solutions. We strive to achieve excellence in all that we do by delivering reliable, high-quality products and services.
+Infosim is a global leader in automated network management solutions, providing cutting-edge software for monitoring, optimizing, and securing complex IT and IoT infrastructures. Their flagship product, StableNet®, empowers scientific organizations with real-time visibility, predictive analytics, and streamlined operations—ensuring reliable connectivity and performance for mission-critical research and innovation.
 
 ## Technical Co-Sponsorship
 
