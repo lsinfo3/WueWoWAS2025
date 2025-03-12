@@ -19,7 +19,7 @@ We want to express our gratitude to our partners for providing industrial suppor
   </tr>
   <tr>
     <td align="center">
-      <img src="{{ '/assets/images/infosim.png' | relative_url }}"  width="250" height="250"><br /><br />
+      <img src="{{ '/assets/images/infosim.png' | relative_url }}"  width="250" height="250" style="background-color:white;"><br /><br />
       <div style="text-align: left; display: inline-block; max-width: 90%;">
         <p>The mission at Infosim® is to be a global leader in the development of innovative Software and IT Solutions. We strive to achieve excellence in all that we do by delivering reliable, high-quality products and services.</p>
       </div>
