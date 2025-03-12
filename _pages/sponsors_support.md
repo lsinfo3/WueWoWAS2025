@@ -4,10 +4,10 @@ permalink: /sponsors_support/
 ---
 
 <style>
-  .content-block .text {
-      flex: 1;
-      padding: 0 20px;
-      text-align: justify;
+ .img {
+     display: block;
+     width: 40%;
+     margin: auto;
   }
 </style>
 
@@ -17,13 +17,13 @@ We want to express our gratitude to our partners for providing industrial suppor
 ## Industrial Support
 
 <figure>
-  <center><img src="{{ '/assets/images/emnify_new.png' | relative_url }}"  width="250" height="250""></center>
+  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}"  width="250" height="250"">
 </figure>
 emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. 
 
 
 <figure>
-  <center><img src="{{ '/assets/images/infosim.png' | relative_url }}"  width="250" height="250" background-color:white;"></center>
+  <img src="{{ '/assets/images/infosim.png' | relative_url }}"  width="250" height="250" background-color:white;">
 </figure>
 emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. 
 
