@@ -49,6 +49,7 @@ We want to express our gratitude to our partners for providing industrial suppor
    </div>
  </div>
 
+___
  <div class="content-block">
   <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 20%; display: inline-block; background-color:white; margin: auto" class="image left">
   <div class="text">
@@ -67,14 +68,16 @@ We want to express our gratitude to our partners for providing industrial suppor
     The Information Technology Society (ITG) within the VDE e.V. is the national association of all those active in the field of information technology in business, administration, teaching, research, and science. Founded in 1954 as the Telecommunications Society, it is the oldest professional society within the VDE.
   </div>
  </div>
-
+ 
+___
  <div class="content-block">
   <img src="{{ '/assets/images/kuvs.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
   <div class="text">
    The “Communication and Distributed Systems” (Kommunikation und Verteilte Systeme, KuVS) special interest group fulfills a double role for scientists and researchers working in its topic areas: first, as a communications hub among them; second, as their representative body to other institutions. It is rooted in both the Fachbereich “Betriebssysteme, Kommunikationssysteme, Verteilte Systeme (SYS)” of the German Informatics Society (Deutsche Gesellschaft für Informatik, GI) and the Information Technology Society of VDE (Informationstechnische Gesellschaft, ITG).
   </div>
  </div>
- 
+
+ ___
  <div class="content-block">
   <img src="{{ '/assets/images/gi.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto; background-color:white;" >
   <div class="text">
@@ -93,7 +96,8 @@ We want to express our gratitude to our partners for providing industrial suppor
    The subproject SUSTAINET-Advance aims to enhance 6G network sustainability from RAN to core using neuromorphic computing and optical networks. It focuses on the interdependence between energy and communication networks, improving resilience and efficiency through advanced monitoring and scalable connectivity while ensuring security with trusted AI and zero-trust frameworks.
   </div>
  </div>
- 
+
+ ___
  <div class="content-block">
   <img src="{{ '/assets/images/origami_logo.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
   <div class="text">
