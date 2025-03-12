@@ -13,14 +13,18 @@ We want to express our gratitude to our partners for providing industrial suppor
     <td align="center">
       <img src="{{ '/assets/images/emnify_new.png' | relative_url }}"  width="200" height="200"><br />
       <b>emnify</b>  <br />
-      <em> emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. </em>
+      <div style="text-align: left; display: inline-block; max-width: 80%;">
+        <em style="text-align:left"> emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. </em>
+      </div>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="{{ '/assets/images/infosim.png' | relative_url }}"  width="200" height="200"><br />
       <b>infosim</b>  <br />
-    <em>The mission at Infosim® is to be a global leader in the development of innovative Software and IT Solutions. We strive to achieve excellence in all that we do by delivering reliable, high-quality products and services.</em>
+      <div style="text-align: left; display: inline-block; max-width: 80%;">
+        <em>The mission at Infosim® is to be a global leader in the development of innovative Software and IT Solutions. We strive to achieve excellence in all that we do by delivering reliable, high-quality products and services.</em>
+      </div>
     </td>
   </tr>
 </table>
