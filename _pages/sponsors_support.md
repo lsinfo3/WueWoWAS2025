@@ -43,7 +43,7 @@ We want to express our gratitude to our partners for providing industrial suppor
 
 <div class="content-container">
  <div class="content-block">
-  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 20%; width="40%"; display: inline-block; margin: auto" class="image left" >
+  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 20%; width: 40%; display: inline-block; margin: auto" class="image left" >
   <div class="text">
    EMnify is a leading provider of cloud-native IoT connectivity solutions, empowering organizations with secure, global, and scalable cellular connectivity. Their platform enables seamless data transmission for research projects, smart devices, and remote monitoring applications — ensuring reliable communication in even the most challenging environments. 
   </div>
@@ -52,7 +52,7 @@ We want to express our gratitude to our partners for providing industrial suppor
 <hr>
 
  <div class="content-block">
-  <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 20%; width="40%"; display: inline-block; background-color:white; margin: auto" class="image left">
+  <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 20%; width: 40%; display: inline-block; background-color:white; margin: auto" class="image left">
   <div class="text">
    Infosim is a global leader in automated network management solutions, providing cutting-edge software for monitoring, optimizing, and securing complex IT and IoT infrastructures. Their flagship product, StableNet®, provides real-time visibility, predictive analytics, and streamlined operations—ensuring reliable connectivity and performance for mission-critical applications.
   </div>
