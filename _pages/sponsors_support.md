@@ -49,7 +49,7 @@ We want to express our gratitude to our partners for providing industrial suppor
    </div>
  </div>
 
----
+<hr>
 
  <div class="content-block">
   <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 20%; display: inline-block; background-color:white; margin: auto" class="image left">
@@ -70,7 +70,7 @@ We want to express our gratitude to our partners for providing industrial suppor
   </div>
  </div>
  
----
+<hr>
 
  <div class="content-block">
   <img src="{{ '/assets/images/kuvs.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
@@ -79,7 +79,7 @@ We want to express our gratitude to our partners for providing industrial suppor
   </div>
  </div>
 
- ---
+ <hr>
  
  <div class="content-block">
   <img src="{{ '/assets/images/gi.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto; background-color:white;" >
@@ -100,7 +100,7 @@ We want to express our gratitude to our partners for providing industrial suppor
   </div>
  </div>
 
- ---
+ <hr>
  
  <div class="content-block">
   <img src="{{ '/assets/images/origami_logo.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
