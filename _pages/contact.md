@@ -3,7 +3,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Regarding questions of any kind please contact Stefan Geißler:
+Regarding questions of any kind please contact David Raunecker:
 <br>
 
-[stefan.geissler (at) informatik.uni-wuerzburg.de](mailto:stefan.geissler@informatik.uni-wuerzburg.de)
+[david.raunecker (at) informatik.uni-wuerzburg.de](mailto:david.raunecker@uni-wuerzburg.de)
