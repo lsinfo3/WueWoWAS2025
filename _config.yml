@@ -51,8 +51,8 @@ defaults:
         overlay_image: /assets/images/wue_header2.jpg
         actions:
           - label: "Call for Participation"
-            url: "/"  # IF THE CALL FOR PAPER STARTS --> CHANGE THIS TO THE LINE BELOW (This is just a temporary setting since cfp page is not updated yet)
-            #url: "/cfp/"  
+            #url: "/"  # IF THE CALL FOR PAPER STARTS --> CHANGE THIS TO THE LINE BELOW (This is just a temporary setting since cfp page is not updated yet)
+            url: "/cfp/"  
 
 footer:
   links:
