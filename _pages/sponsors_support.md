@@ -16,24 +16,16 @@ We want to express our gratitude to our partners for providing industrial suppor
 
 ## Industrial Support
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="{{ '/assets/images/emnify_new.png' | relative_url }}"  width="250" height="250"><br /><br />
-      <div class="text" style="text-align: left; display: inline-block; max-width: 90%;">
-        <p style="text-align:left"> emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="{{ '/assets/images/infosim.png' | relative_url }}"  width="250" height="250" style="background-color:white;"><br /><br />
-      <div class="text" style="text-align: left; display: inline-block; max-width: 90%;">
-        <p>The mission at Infosim® is to be a global leader in the development of innovative Software and IT Solutions. We strive to achieve excellence in all that we do by delivering reliable, high-quality products and services.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<figure>
+  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}"  width="250" height="250" style="display: block; margin: auto;">
+</figure>
+emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. 
+
+
+<figure>
+  <img src="{{ '/assets/images/infosim.png' | relative_url }}"  width="250" height="250" style="display: block; margin: auto; background-color:white;">
+</figure>
+emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. 
 
 
 ## Technical Co-Sponsorship
