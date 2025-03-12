@@ -4,11 +4,36 @@ permalink: /sponsors_support/
 ---
 
 <style>
- .img {
-     display: block;
-     width: 20%;
-     margin: auto;
-  }
+ .content-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.content-block {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.content-block .text {
+    flex: 1;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+.content-block img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.content-block .left {
+    order: 0;
+}
+
+.content-block .right {
+    order: 1;
+}
 </style>
 
 # Sponsors & Support
@@ -16,17 +41,19 @@ We want to express our gratitude to our partners for providing industrial suppor
 
 ## Industrial Support
 
-<figure>
-  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
-</figure>
-EMnify is a leading provider of cloud-native IoT connectivity solutions, empowering scientific organizations with secure, global, and scalable cellular connectivity. Their platform enables seamless data transmission for research projects, smart devices, and remote monitoring applications—ensuring reliable communication in even the most challenging environments. 
+<div class="content-block">
+  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto"class="image left" >
+  <div class="text">
+     EMnify is a leading provider of cloud-native IoT connectivity solutions, empowering scientific organizations with secure, global, and scalable cellular connectivity. Their platform enables seamless data transmission for research projects, smart devices, and remote monitoring applications—ensuring reliable communication in even the most challenging environments. 
+  </div>
+</div>
 
-
-<figure>
-  <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 20%; display: inline-block; background-color:white; margin: auto">
-</figure>
-Infosim is a global leader in automated network management solutions, providing cutting-edge software for monitoring, optimizing, and securing complex IT and IoT infrastructures. Their flagship product, StableNet®, empowers scientific organizations with real-time visibility, predictive analytics, and streamlined operations—ensuring reliable connectivity and performance for mission-critical research and innovation.
-
+<div class="content-block">
+  <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 20%; display: inline-block; background-color:white; margin: auto" class="image left">
+  <div class="text">
+    Infosim is a global leader in automated network management solutions, providing cutting-edge software for monitoring, optimizing, and securing complex IT and IoT infrastructures. Their flagship product, StableNet®, empowers scientific organizations with real-time visibility, predictive analytics, and streamlined operations—ensuring reliable connectivity and performance for mission-critical research and innovation.
+  </div>
+</div>
 ## Technical Co-Sponsorship
 
 <figure>
