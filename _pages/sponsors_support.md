@@ -41,11 +41,13 @@ We want to express our gratitude to our partners for providing industrial suppor
 
 ## Industrial Support
 
-<div class="content-block">
-  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto"class="image left" >
-  <div class="text">
-     EMnify is a leading provider of cloud-native IoT connectivity solutions, empowering scientific organizations with secure, global, and scalable cellular connectivity. Their platform enables seamless data transmission for research projects, smart devices, and remote monitoring applications—ensuring reliable communication in even the most challenging environments. 
-  </div>
+<div class="content-container">
+ <div class="content-block">
+   <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" class="image left" >
+   <div class="text">
+      EMnify is a leading provider of cloud-native IoT connectivity solutions, empowering scientific organizations with secure, global, and scalable cellular connectivity. Their platform enables seamless data transmission for research projects, smart devices, and remote monitoring applications—ensuring reliable communication in even the most challenging environments. 
+   </div>
+ </div>
 </div>
 
 <div class="content-block">
