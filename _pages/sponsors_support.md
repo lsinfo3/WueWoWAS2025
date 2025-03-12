@@ -61,7 +61,7 @@ We want to express our gratitude to our partners for providing industrial suppor
 
 <div class="content-container">
  <div class="content-block">
-   <img src="{{ '/assets/images/vde.jpg' | relative_url }}" style="max-width: 45%; display: inline-block; margin: auto" >
+   <img src="{{ '/assets/images/vde.jpg' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
    <div class="text">
     VDE, one of the largest technology organizations in Europe, has been regarded as a synonym for innovation and technological progress for more than 130 years.</br>
     The Information Technology Society (ITG) within the VDE e.V. is the national association of all those active in the field of information technology in business, administration, teaching, research, and science. Founded in 1954 as the Telecommunications Society, it is the oldest professional society within the VDE.
@@ -69,14 +69,14 @@ We want to express our gratitude to our partners for providing industrial suppor
  </div>
 
  <div class="content-block">
-  <img src="{{ '/assets/images/kuvs.png' | relative_url }}" style="max-width: 45%; display: inline-block; margin: auto" >
+  <img src="{{ '/assets/images/kuvs.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
   <div class="text">
    The “Communication and Distributed Systems” (Kommunikation und Verteilte Systeme, KuVS) special interest group fulfills a double role for scientists and researchers working in its topic areas: first, as a communications hub among them; second, as their representative body to other institutions. It is rooted in both the Fachbereich “Betriebssysteme, Kommunikationssysteme, Verteilte Systeme (SYS)” of the German Informatics Society (Deutsche Gesellschaft für Informatik, GI) and the Information Technology Society of VDE (Informationstechnische Gesellschaft, ITG).
   </div>
  </div>
  
  <div class="content-block">
-  <img src="{{ '/assets/images/gi.png' | relative_url }}" style="max-width: 45%; display: inline-block; margin: auto; background-color:white;" >
+  <img src="{{ '/assets/images/gi.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto; background-color:white;" >
   <div class="text">
    The German Informatics Society (GI) is a non-profit association that connects science, business, education, society and politics in all aspects of computer science, its applications and its impact on people, society and the environment.
   </div>
@@ -95,7 +95,7 @@ We want to express our gratitude to our partners for providing industrial suppor
  </div>
  
  <div class="content-block">
-  <img src="{{ '/assets/images/origami_logo.png' | relative_url }}" style="max-width: 45%; display: inline-block; margin: auto" >
+  <img src="{{ '/assets/images/origami_logo.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
   <div class="text">
    ORIGAMI aims at spearheading the next-generation of mobile network architecture, overcoming eight factual barriers to ensure a successful 6G future, striving to create global single standards, promote green transition, boost affordability and accessibility, and inspire ground-breaking applications and fresh business models.
   </div>
