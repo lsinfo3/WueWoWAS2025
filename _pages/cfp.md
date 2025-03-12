@@ -71,4 +71,5 @@ Please use the following link to register for the workshop: [https://edas.info/r
 
 ## Supporting Projects
       
- <!-- -SUSTAINET-Advance -->
+- SUSTAINET-Advance
+- ORIGAMI
