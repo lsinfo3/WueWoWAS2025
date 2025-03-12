@@ -3,6 +3,14 @@ title: Sponsors & Support
 permalink: /sponsors_support/
 ---
 
+<style>
+  .content-block .text .p {
+      flex: 1;
+      padding: 0 20px;
+      text-align: justify;
+  }
+</style>
+
 # Sponsors & Support
 We want to express our gratitude to our partners for providing industrial support or technical co-sponsorships, as well as the projects supporting WueWoWas'25, without whom the workshop would not be possible.
 
