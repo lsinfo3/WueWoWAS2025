@@ -17,16 +17,15 @@ We want to express our gratitude to our partners for providing industrial suppor
 ## Industrial Support
 
 <figure>
-  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 40%;" >
+  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 40%; display: inline-block; margin: auto" >
 </figure>
 emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. 
 
 
 <figure>
-  <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 40%; background-color:white;">
+  <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 40%; display: inline-block; background-color:white; margin: auto">
 </figure>
-emnify is an IoT connectivity innovator. We have the expertise to deeply understand your needs, the flexibility to meet the requirements of your IoT business, and the commitment to help you achieve your goals. 
-
+The mission at Infosim® is to be a global leader in the development of innovative Software and IT Solutions. We strive to achieve excellence in all that we do by delivering reliable, high-quality products and services.
 
 ## Technical Co-Sponsorship
 
