@@ -6,7 +6,7 @@ permalink: /sponsors_support/
 <style>
  .img {
      display: block;
-     width: 40%;
+     width: 20%;
      margin: auto;
   }
 </style>
@@ -17,13 +17,13 @@ We want to express our gratitude to our partners for providing industrial suppor
 ## Industrial Support
 
 <figure>
-  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 40%; display: inline-block; margin: auto" >
+  <img src="{{ '/assets/images/emnify_new.png' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
 </figure>
 EMnify is a leading provider of cloud-native IoT connectivity solutions, empowering scientific organizations with secure, global, and scalable cellular connectivity. Their platform enables seamless data transmission for research projects, smart devices, and remote monitoring applications—ensuring reliable communication in even the most challenging environments. 
 
 
 <figure>
-  <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 40%; display: inline-block; background-color:white; margin: auto">
+  <img src="{{ '/assets/images/infosim.png' | relative_url }}" style="max-width: 20%; display: inline-block; background-color:white; margin: auto">
 </figure>
 Infosim is a global leader in automated network management solutions, providing cutting-edge software for monitoring, optimizing, and securing complex IT and IoT infrastructures. Their flagship product, StableNet®, empowers scientific organizations with real-time visibility, predictive analytics, and streamlined operations—ensuring reliable connectivity and performance for mission-critical research and innovation.
 
@@ -51,7 +51,7 @@ The German Informatics Society (GI) is a non-profit association that connects sc
 ## Supporting Projects
 
 <figure>
-  <img src="{{ '/assets/images/logo-SUSTAINET-Advance.jpg' | relative_url }}" style="max-width: 40%; display: inline-block; margin: auto" >
+  <img src="{{ '/assets/images/logo-SUSTAINET-Advance.jpg' | relative_url }}" style="max-width: 20%; display: inline-block; margin: auto" >
 </figure>
 
 SUSTAINET proposes a holistic approach, integrating research in frictionless network performance, resilience, security, and sustainability to propel Europe towards a sustainable, technologically sovereign future.
