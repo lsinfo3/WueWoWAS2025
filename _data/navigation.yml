@@ -21,7 +21,7 @@ main:
  #   url: /abstracts/
   - title: "Committee"
     url: /committee/
-  - title: "Sponsors & Support"
+  - title: "Sponsors"
     url: /sponsors_support/
   - title: "Archive"
     url: /archive/
