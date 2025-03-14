@@ -17,7 +17,7 @@
     <ul>
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}
-            {% assign current = ' style="background-color: #FEFEFE; color: #252A34;" ' %}
+            {% assign current = ' class="active" ' %}
         {% else %}
             <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
             {% assign current = null %}
