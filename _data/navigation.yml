@@ -23,10 +23,11 @@ main:
     url: /committee/
   - title: "Sponsors"
     url: /sponsors_support/
+  - title: "Review Guidelines"
+    url: /guidelines/
   - title: "Archive"
     url: /archive/
   - title: "Contact"
     url: /contact/
-  - title: "Review Guidelines"
-    url: /guidelines/
+
 
