@@ -7,7 +7,7 @@ permalink: /guidelines/
 
 The goal of the review process is to provide constructive comments to the authors. In particular, we encourage constructive comments helping the researchers to improve the presentation of their work, and hints for further extension of the topic. For the weaknesses, provide helpful comments or recommended changes for future work, specifically regarding the applied methodology. Please also indicate the strengths of the paper. Some guiding questions are as follows, also included in the review form.
 _What is the most significant strength of the paper?_
-_If the authors did one more (experiment/thing) what should it be? _
+_If the authors did one more (experiment/thing) what should it be?_
 _Is the structure of the storyline easy to follow?_
 
 Additionally, the reviewers evaluate the overall merit and the presentation quality on a 5 point scale: (5:Strong accept, 4:Accept, 3:Weak accept, 2:Weak reject, 1:Reject)..
