@@ -9,7 +9,7 @@ permalink: /committee/
 - Amr Rizk (Univ. Hannover)
 - Tobias Hoßfeld (Univ. Würzburg)
 
-# Technical Programm Committee Members:
+# Technical Programm Committee Members
 - Alexej Grigorjew, University of Würzburg
 - Amr Rizk, Leibniz University Hannover
 - Andreas Kassler, Deggendorf Institute of Technology (DIT)
