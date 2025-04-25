@@ -48,21 +48,28 @@ permalink: /phd_day/
 ### 11:00-12:30 - Energy Measurements, Metrics, Models
 **Speaker: Fank Loh, Tobias Hoßfeld, Univ. Würzburg**
 
+<div style="margin-left: 20px;">
 In this tutorial, we will present methods for measuring power consumption in communication networks as well as software-based approaches for approximating the power consumption. Energy efficiency metrics from literature and standaridzation will be revisited. Furthermore, commonly used energy consumption models liked load-dependent or sleep-mode-aware models are introduced.
+</div>
 
 ***
 
 ### 14:00-15:30 - Open RAN and 5G Campus Networks Setup and Measurements
 **Speaker: Stanislav Lange, NTNU Trondheim**
 
+
+<div style="margin-left: 20px;">
 In this tutorial, we will discuss key building blocks for setting up a private 5G testbed using Software-Defined Radios (SDRs), open source software components such as OpenAirInterface and srsRAN, and off-the-shelf modems / phones. Furthermore, we will cover case studies highlighting research challenges as well as lessons learned in terms of measurement automation and reproducibility. 
+</div>
 
 ***
 
 ### 16:00-17:30 - Resilience and Sovereignty Metrics and Models
 **Speaker: Carmen Mas Machuca, UniBw München**
 
+<div style="margin-left: 20px;">
 This tutorial will give an overview of the different metrics that can be used to evaluate the sovereignty and resilience of a system. We will also present existing models for these metrics, as well as use cases where they have been applied. 
+</div>
 
 ***
 
