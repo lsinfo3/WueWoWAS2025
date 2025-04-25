@@ -83,8 +83,6 @@ This tutorial will give an overview of the different metrics that can be used to
    </div>
  </div>
  
-<hr>
-
  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Tobias Hoßfeld, Univ. Würzburg</div>
  <div class="content-block">
   <img src="{{ '/assets/images/hossfeld.jpg' | relative_url }}" >
@@ -92,8 +90,6 @@ This tutorial will give an overview of the different metrics that can be used to
     Tobias Hoßfeld is a Full professor and head of the Chair of Communication Networks at the University of Würzburg since 2018.  with a PhD completed in 2009 and habilitation in 2013. His research interests include network performance modeling, QoS and QoE, energy efficiency and sustainability in communication networks and 6G. He is member of the editorial board of IEEE Communications Surveys & Tutorials, Springer Quality and User Experience, ACM SIGMM Records and co-chair of the VDE ITG expert group KT 2 "Communication Networks and Systems".  
   </div>
  </div>
-
- <hr>
 
   <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Stanislav Lange, NTNU Trondheim</div>
  <div class="content-block">
