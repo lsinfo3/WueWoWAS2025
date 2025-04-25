@@ -39,9 +39,15 @@ permalink: /phd_day/
 
 # PhD Day
 
-## Schedule
+Wednesday, the third day of the workshop, is organized as a PhD Day, featuring speed mentoring, tutorial-style talks, and (hands-on) experience sessions. 
+
+## Tutorial Schedule
 ### 9:00-10:30 - Introduction to Quantum Communication using Computer Science and Performance Evaluation Methods
 **Speaker: Karim Samy Abelkhalek Elsayed, Univ. Hannover**
+
+<div style="margin-left: 20px;">
+Details coming soon
+</div>
 
 ***
 
