@@ -66,7 +66,7 @@ This tutorial will give an overview of the different metrics that can be used to
 ## Speakers
 
 <div class="content-container">
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Karim Samy Abelkhalek Elsayed, Univ. Hannover</div>
+ <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Karim Samy Abelkhalek Elsayed, Univ. Hannover</div>
  <div class="content-block">
   <img src="{{ '/assets/images/Karim_Samy_Abelkhalek_Elsayed.jpg' | relative_url }}" style=" background-color:white" class="image left" >
   <div class="text">
@@ -75,7 +75,7 @@ This tutorial will give an overview of the different metrics that can be used to
  </div>
 </div>
 
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Fank Loh, Univ. Würzburg</div>
+ <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Fank Loh, Univ. Würzburg</div>
  <div class="content-block">
    <img src="{{ '/assets/images/loh.jpg' | relative_url }}"  >
    <div class="text">
@@ -83,15 +83,15 @@ This tutorial will give an overview of the different metrics that can be used to
    </div>
  </div>
  
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Tobias Hoßfeld, Univ. Würzburg</div>
+ <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Tobias Hoßfeld, Univ. Würzburg</div>
  <div class="content-block">
   <img src="{{ '/assets/images/hossfeld.jpg' | relative_url }}" >
   <div class="text">
-    Tobias Hoßfeld is a Full professor and head of the Chair of Communication Networks at the University of Würzburg since 2018.  with a PhD completed in 2009 and habilitation in 2013. His research interests include network performance modeling, QoS and QoE, energy efficiency and sustainability in communication networks and 6G. He is member of the editorial board of IEEE Communications Surveys & Tutorials, Springer Quality and User Experience, ACM SIGMM Records and co-chair of the VDE ITG expert group KT 2 "Communication Networks and Systems".  
+    Tobias Hoßfeld is a Full professor and head of the Chair of Communication Networks at the University of Würzburg since 2018, with a PhD completed in 2009 and habilitation in 2013. His research interests include network performance modeling, QoS and QoE, energy efficiency and sustainability in communication networks and 6G. He is member of the editorial board of IEEE Communications Surveys & Tutorials, Springer Quality and User Experience, ACM SIGMM Records and co-chair of the VDE ITG expert group KT 2 "Communication Networks and Systems".  
   </div>
  </div>
 
-  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Stanislav Lange, NTNU Trondheim</div>
+  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Stanislav Lange, NTNU Trondheim</div>
  <div class="content-block">
   <img src="{{ '/assets/images/stas-profile-pic-512x512.jpg' | relative_url }}">
   <div class="text">
@@ -99,7 +99,7 @@ This tutorial will give an overview of the different metrics that can be used to
   </div>
  </div>
 
-  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Carmen Mas Machuca, UniBw München</div>
+  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Carmen Mas Machuca, UniBw München</div>
   <div class="content-block">
   <img src="{{ '/assets/images/Carmen_Mas_Mucha.jpeg' | relative_url }}" >
   <div class="text">
