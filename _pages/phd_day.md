@@ -66,7 +66,7 @@ This tutorial will give an overview of the different metrics that can be used to
 ## Speakers
 
 <div class="content-container">
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Karim Samy Abelkhalek Elsayed, Univ. Hannover</div>
+ <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Karim Samy Abelkhalek Elsayed, Univ. Hannover</div>
  <div class="content-block">
   <img src="{{ '/assets/images/Karim_Samy_Abelkhalek_Elsayed.jpg' | relative_url }}" style=" background-color:white" class="image left" >
   <div class="text">
@@ -75,7 +75,7 @@ This tutorial will give an overview of the different metrics that can be used to
  </div>
 </div>
 
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Fank Loh, Univ. Würzburg</div>
+ <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Fank Loh, Univ. Würzburg</div>
  <div class="content-block">
    <img src="{{ '/assets/images/loh.jpg' | relative_url }}"  >
    <div class="text">
@@ -83,7 +83,7 @@ This tutorial will give an overview of the different metrics that can be used to
    </div>
  </div>
  
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Tobias Hoßfeld, Univ. Würzburg</div>
+ <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Tobias Hoßfeld, Univ. Würzburg</div>
  <div class="content-block">
   <img src="{{ '/assets/images/hossfeld.jpg' | relative_url }}" >
   <div class="text">
@@ -91,7 +91,7 @@ This tutorial will give an overview of the different metrics that can be used to
   </div>
  </div>
 
-  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Stanislav Lange, NTNU Trondheim</div>
+  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Stanislav Lange, NTNU Trondheim</div>
  <div class="content-block">
   <img src="{{ '/assets/images/stas-profile-pic-512x512.jpg' | relative_url }}">
   <div class="text">
@@ -99,7 +99,7 @@ This tutorial will give an overview of the different metrics that can be used to
   </div>
  </div>
 
-  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Carmen Mas Machuca, UniBw München</div>
+  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 200px;">Carmen Mas Machuca, UniBw München</div>
   <div class="content-block">
   <img src="{{ '/assets/images/Carmen_Mas_Mucha.jpeg' | relative_url }}" >
   <div class="text">
