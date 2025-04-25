@@ -86,7 +86,7 @@ This tutorial will give an overview of the different metrics that can be used to
  <div class="content-block">
   <img src="{{ '/assets/images/Karim_Samy_Abelkhalek_Elsayed.jpg' | relative_url }}" style=" background-color:white" class="image left" >
   <div class="text">
-    Desc  
+    Biography details coming soon
   </div>
  </div>
 </div>
