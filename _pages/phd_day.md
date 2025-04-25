@@ -103,7 +103,7 @@ This tutorial will give an overview of the different metrics that can be used to
  <div class="content-block">
   <img src="{{ '/assets/images/hossfeld.jpg' | relative_url }}" >
   <div class="text">
-    Tobias Hoßfeld is a Full professor and head of the Chair of Communication Networks at the University of Würzburg since 2018. His research interests include network performance modeling, QoS and QoE, energy efficiency and sustainability in communication networks and 6G. He is member of the editorial board of IEEE Communications Surveys & Tutorials, Springer Quality and User Experience, ACM SIGMM Records, and co-chair of the VDE ITG expert group KT 2 "Communication Networks and Systems".  
+    Tobias Hoßfeld is a Full professor and head of the Chair of Communication Networks at the University of Würzburg since 2018. His research interests include performance modeling, QoS and QoE, energy efficiency and sustainability in 6G. He serves on the editorial boards of IEEE Comm. Surveys & Tutorials, Springer QUEX, ACM SIGMM Records, and co-chairs the VDE ITG expert group KT 2 "Communication Networks and Systems".  
   </div>
  </div>
 
