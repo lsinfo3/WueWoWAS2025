@@ -42,21 +42,20 @@ permalink: /phd_day/
 ## Schedule
 ### 9:00-10:30 - Introduction to Quantum Communication using Computer Science and Performance Evaluation Methods
 **Speaker: Karim Samy Abelkhalek Elsayed, Univ. Hannover**
-
+***
 ### 11:00-12:30 - Energy Measurements, Metrics, Models
 **Speaker: Fank Loh, Tobias Hoßfeld, Univ. Würzburg**
 In this tutorial, we will present methods for measuring power consumption in communication networks as well as software-based approaches for approximating the power consumption. Energy efficiency metrics from literature and standaridzation will be revisited. Furthermore, commonly used energy consumption models liked load-dependent or sleep-mode-aware models are introduced.
-
+***
 ### 14:00-15:30 - Open RAN and 5G Campus Networks Setup and Measurements
 **Speaker: Stanislav Lange, NTNU Trondheim**
 In this tutorial, we will discuss key building blocks for setting up a private 5G testbed using Software-Defined Radios (SDRs), open source software components such as OpenAirInterface and srsRAN, and off-the-shelf modems / phones. Furthermore, we will cover case studies highlighting research challenges as well as lessons learned in terms of measurement automation and reproducibility. 
-
+***
 ### 16:00-17:30 - Resilience and Sovereignty Metrics and Models
 **Speaker: Carmen Mas Machuca, UniBw München**
 This tutorial will give an overview of the different metrics that can be used to evaluate the sovereignty and resilience of a system. We will also present existing models for these metrics, as well as use cases where they have been applied.  
     
 ## Speakers
-<hr>
 
 <div class="content-container">
  <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Karim Samy Abelkhalek Elsayed, Univ. Hannover</div>
@@ -103,4 +102,3 @@ This tutorial will give an overview of the different metrics that can be used to
     Carmen Mas Machuca is a Full professor at University of the Bundeswehr Munich (UniBw), heading the Chair of Communication Networks and Privat Dozent at the Technical University of Munich (TUM). Her research interests include techno-economic studies, resilient network planning, and optical networks. She's an editor for IEEE TNSM, OSA JOCN, and IEEE Communications Magazine.  
   </div>
  </div>
-</div>
