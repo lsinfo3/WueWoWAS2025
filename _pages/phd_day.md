@@ -42,11 +42,11 @@ permalink: /phd_day/
 Wednesday, the third day of the workshop, is organized as a PhD Day, featuring speed mentoring, tutorial-style talks, and (hands-on) experience sessions. 
 
 ## Tutorial Schedule
-### 9:00-10:30 - Introduction to Quantum Communication using Computer Science and Performance Evaluation Methods
-**Speaker: Karim Samy Abelkhalek Elsayed, Univ. Hannover**
+### 9:00-10:30 - Introduction to Quantum Communication using Computer Science and Performance Evaluation
+**Speaker: Karim Elsayed, Univ. Hannover**
 
 <div style="margin-left: 20px;">
-Details coming soon
+Quantum communication forms the foundation for connecting multiple quantum computers to collaboratively solve complex problems. This approach is driven by the difficulty of sustaining large-scale quantum systems. Unlike classical communication, quantum communication is governed by unique quantum properties, requiring fundamentally new concepts and techniques. In this tutorial, we will explain the core principles of quantum communication, its unique features, and evaluate the performance of the communication system for different approaches in light of these distinctive features.
 </div>
 
 ***
@@ -86,7 +86,7 @@ This tutorial will give an overview of the different metrics that can be used to
  <div class="content-block">
   <img src="{{ '/assets/images/Karim_Samy_Abelkhalek_Elsayed.jpg' | relative_url }}" style=" background-color:white" class="image left" >
   <div class="text">
-    Biography details coming soon
+    Karim Elsayed is pursuing his Ph.D. in the Distributed Real-Time Systems group at the Department of Computer Science, Leibniz University Hannover. He obtained his Master's degree in Communication Engineering and Technology from Ulm University. His research interests include the modeling and optimization of communication and networked systems, with a current focus on the performance evaluation and optimization of quantum networks. 
   </div>
  </div>
 </div>
