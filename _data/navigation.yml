@@ -19,6 +19,8 @@ main:
  #   url: /program/
  # - title: "Download"
  #   url: /abstracts/
+   - title: "PhD Day"
+    url: /phd_day/
   - title: "Committee"
     url: /committee/
   - title: "Sponsors"
