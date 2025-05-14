@@ -91,7 +91,7 @@ This tutorial will give an overview of the different metrics that can be used to
  </div>
 </div>
 
- <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Fank Loh, Univ. Würzburg</div>
+ <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 230px;">Frank Loh, Univ. Würzburg</div>
  <div class="content-block">
    <img src="{{ '/assets/images/loh.jpg' | relative_url }}"  >
    <div class="text">
