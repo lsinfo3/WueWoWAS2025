@@ -8,4 +8,5 @@ Authors are invited to submit original unpublished, early stage research written
 
 [https://edas.info/N33713](https://edas.info/N33713)
 
+# Copyright Form
 Once a research paper has been accepted, the upload of the camera-ready version to EDAS aditionally requires the upload of a written declaration of conent for publishing on the institutional repository of the University of Würzburg. The required copyright form can be downloaded <a href="../assets/forms/Autorenvertrag_OPUS_en_WueWoWAS25.pdf"> here</a>.
