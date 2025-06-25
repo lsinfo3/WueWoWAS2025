@@ -9,4 +9,4 @@ Our discussions revolve around a wide array of subjects, touching upon next-gene
 
 We encourage PhD students, early career scientists as well as senior researchers to contribute early state and ongoing research or previously published hot topic papers in the form of extended abstracts. Accepted abstracts will be published open access through Würzburg University Press and indexed in search engines and digital library catalogs. The goal of the workshop is to foster communication among researchers from industry and academia. To this end, invited experience talks and discussion slots on important topics Next-Generation Communication Networks are an integral part of the program.
 
-A pdf version of the Call for Papers can be downloaded <a href="../assets/forms/wuewowas25_cfp_flyer.pdf"> here</a>.
+A pdf version of the Call for Papers can be downloaded <a href="./assets/forms/wuewowas25_cfp_flyer.pdf"> here</a>.
