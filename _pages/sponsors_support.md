@@ -96,7 +96,8 @@ We want to express our gratitude to our partners for providing industrial suppor
  <div class="content-block">
   <img src="{{ '/assets/images/logo-SUSTAINET-Advance.jpg' | relative_url }}" >
   <div class="text">
-   SUSTAINET proposes a holistic approach, integrating research in frictionless network performance, resilience, security, and sustainability to propel Europe towards a sustainable, technologically sovereign future.</br>
+   SUSTAINET proposes a holistic approach, integrating research in frictionless network performance, resilience, security, and sustainability to propel Europe towards a sustainable, technologically sovereign future.
+   
    The subproject SUSTAINET-Advance aims to enhance 6G network sustainability from RAN to core using neuromorphic computing and optical networks. It focuses on the interdependence between energy and communication networks, improving resilience and efficiency through advanced monitoring and scalable connectivity while ensuring security with trusted AI and zero-trust frameworks.
   </div>
  </div>
