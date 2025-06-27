@@ -66,7 +66,7 @@ We want to express our gratitude to our partners for providing industrial suppor
  <div class="content-block">
    <img src="{{ '/assets/images/vde.jpg' | relative_url }}"  >
    <div class="text">
-    VDE, one of the largest technology organizations in Europe, has been regarded as a synonym for innovation and technological progress for more than 130 years.</br>
+    VDE, one of the largest technology organizations in Europe, has been regarded as a synonym for innovation and technological progress for more than 130 years.
     The Information Technology Society (ITG) within the VDE e.V. is the national association of all those active in the field of information technology in business, administration, teaching, research, and science. Founded in 1954 as the Telecommunications Society, it is the oldest professional society within the VDE.
   </div>
  </div>
