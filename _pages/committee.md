@@ -16,7 +16,6 @@ permalink: /committee/
 - Christian Mannweiler, Nokia
 - David R. Hock, Infosim GmbH & Co. KG
 - David Raunecker, Universität Würzburg
-- Duy Thanh Le, University of Bamberg
 - Katharina Dietz, University of Würzburg
 - Kien Nguyen, University of Wuerzburg
 - Laura Becker, Technical University of Munich
