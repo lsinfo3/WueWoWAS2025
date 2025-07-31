@@ -37,16 +37,46 @@ permalink: /program/
 </style>
 
 
-# WueWoWAS'25 Preliminary Program
+# WueWoWAS'25 Program
 
 The program will include regular presentation sessions with ample time for questions and discussion. Due to the very positive feedback, we will again organize a speedmentoring session with invited experts from academia and industry. Participants will have the opportunity to book slots with each of the invited experts to discuss their own work, recent developments, or other professional matters. The workshop will start on Monday morning and finish Tuesday afternoon. Wednesday is organized as a PhD Day, featuring speed mentoring, tutorial-style talks, and (hands-on) experience sessions.  Details regarding the workshop program will be provided at a later date.
 
-- Monday: keynote and technical sessions, social event
-- Tuesday: keynote and technical sessions
-- Wednesday: PhD day
+## Monday, 06.10.25
+
+| Start       | End         | Event                            | 
+| ----------- | ----------- | -----------------                |
+| 12:00       | 13:00       | Welcome & Finger Food            |
+| 13:00       | 14:30       | Technical Session 1              |
+| 14:30       | 15:00       | Coffee break                     |
+| 15:00       | 16:30       | Invited Talks                    |
+| 16:30       | 17:30       | Speed Mentoring & Get-together   |
+| 19:00       | open end    | Social Event                     |
 
 
-## Invited Speakers
+## Tuesday, 07.10.25
+
+| Start       | End         | Event                  | 
+| ----------- | ----------- | -----------------      |
+| 09:00       | 10:00       | Technical Session 2    |
+| 10:00       | 10:45       | Invited Talk           |
+| 10:45       | 11:15       | Coffee break           |
+| 11:15       | 12:45       | Technical Session 3    |
+| 12:45       | 14:00       | Lunch                  |
+| 14:00       | 15:30       | Technical Session 4    |
+| 15:30       | 16:00       | Coffee break           |
+| 16:00       | 17:00       | Technical Session 5    |
+| 17:00       | 17:30       | Reviewer Reflection & Feedback Forum    |
+| 19:00       | open end    | Get-together: open ITG KT2 Discussions    |
+
+## Wednesday, 08.10.25
+[PhD Day](https://lsinfo3.github.io/WueWoWAS2025/phd_day/)
+
+# Invited Talks
+## Industrial 6G (to be confired)
+## Native AI in 6G (to be confirmed)
+## "Spatial Computing in the 6G Era" by Rastin Pries (Nokia)
+
+# Invited Speakers
 
 <div class="content-container">      
 	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Rastin Pries (Nokia)</div>
