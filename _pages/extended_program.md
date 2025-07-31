@@ -49,6 +49,7 @@ permalink: /detailed_program/
 ***
 
 ## Wednesday, 8 Oct 2025: PhD Day
+
 | Start       | End         | Tutorial                  | 
 | ----------- | ----------- | -----------------      |
 | 09:00       | 10:30       |  Introduction to **Quantum Communication** using Computer Science and Performance Evaluation by Karim Elsayed, Univ. Hannover|
