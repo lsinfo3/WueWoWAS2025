@@ -3,39 +3,24 @@ title: Author Information
 permalink: /authors/
 ---
 
-# Author Instructions
+# Submission
 
-We invite all authors of accepted submissions to provide a camera ready version of their paper via EDAS by June 10.
+Authors are invited to submit original unpublished, early stage research written in English in PDF format. Submissions will be subjected to a *single-blind* peer-review process. Papers should be submitted in IEEE 2-column format, with paper length up to 4 pages (including references) through the EDAS conference management system. Accepted abstracts will be published open access through Würzburg University Press and indexed in search engines and digital library catalogs. Previously published work should be submitted in the form of a short summary that highlights the key contributions made in the original document. The original publication should be clearly cited in the summary. Hot topic summaries should be no longer than 2 pages including references and will also be included in the open access publication. Authors should register and upload paper submissions via the EDAS conference system: 
 
-We also invite authors, same as all other participants, to register for the workshop via EDAS: [Registration](https://lsinfo3.github.io/WueWoWas2022/registration/)
+[https://edas.info/N33713](https://edas.info/N33713)
 
-# At the Workshop
+# Camera-Ready Version
+Please take into account the reviewers' comment to improve the paper. Use the IEEE 2-column Din A4 format for conference proceedings of your final manuscript, which can be found unter the following link: 
 
-For the workshop in July, we expect all authors of accepted papers to present their work in person. For this, we will provide 30 minute time slots for each presentation and suggest authors prepare 22 minute long talks to leave some room for discussion.
+[https://www.ieee.org/conferences/publishing/templates](https://www.ieee.org/conferences/publishing/templates). 
 
-# Tutorial Participation
+For the camera-ready version, **4 pages can be used in total**, including all references and figures. Once ready, it can be uploaded via EDAS.
 
-For those who will participate in the tutorials on Monday, we will provide detailed instructions regarding potential things to prepare ahead of time. In general, we will be working in python and R and discuss how to analyze systems using either analytical or simulative approaches in practice.
+# Copyright Form
+The upload of the camera-ready version to EDAS additionally requires the upload of a written declaration of consent for publishing on the institutional repository of the University of Würzburg. The required IEEE copyright form is available <a href="../assets/forms/Autorenvertrag_OPUS_en_WueWoWAS25.pdf"> here</a>.
 
-In order to make the tutorials as seamless as possible, we suggest to prepare your systems by installing the following requirements:
+# Registration Deadline
+Please note that **at least one author** must be registered by **August 31** to jave the paper included in the proceedings. Please follow the registration instructions under the tab [Registration](https://lsinfo3.github.io/WueWoWAS2025/registration/).
 
-## Python
-
-No specific requirements aside from raw python as well as an IDE of your choice.
-
-## R
-
-For the R tutorial, we need base R as well as the following packages
-
-* [tidyverse](https://tidyverse.tidyverse.org/)
-* [r-simmer](https://r-simmer.org/)
-
-An IDE of your choice is required as well. We recommend the usage of [RStudio](https://www.rstudio.com/) for its excellent integration.
-
-Note also, that `tidyverse` has several non-R dependencies that need to be installed beforehand if you are running Linux. This should not be required if running Windows or using a Mac.
-
-`sudo apt install libcurl4-openssl-dev libssl-dev libxml2-dev`
-
-After that, simply run `install.packages("tidyverse")` in RStudio to install the package.
-
-Additional material will be provided via github: [here](https://github.com/lsinfo3/simmer-tutorial-WueWoWas2022)
+# Presenter
+Please specify a presenter for the talk by August 31 via EDAS. We also ask you to include a short bio of the presenter in EDAS.
