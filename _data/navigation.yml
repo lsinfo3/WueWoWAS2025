@@ -7,8 +7,10 @@ main:
     url: /program/
   - title: "Registration"
     url: /registration/
-  - title: "Submission"
-    url: /submission/
+  - title: "Authors"
+    url: /authors/
+ # - title: "Submission"
+ #   url: /submission/
  # - title: "Speedmentoring"
  #   url: /mentoring/
  # - title: "Venue"
