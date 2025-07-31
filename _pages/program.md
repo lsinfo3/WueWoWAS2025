@@ -73,22 +73,17 @@ The program will include regular presentation sessions with ample time for quest
 
 For a more detailed program, including individual presentation slots, please click [here](https://lsinfo3.github.io/WueWoWAS2025/detailed_program/).
 
-# Invited Talks
-## "Industrial Networking in 6G" by Dr. Johannes Riedl (Siemens AG)
-## Native AI in 6G (to be confirmed)
-## "Spatial Computing in the 6G Era" by Dr. Rastin Pries (Nokia)
-
 # Invited Speakers
 
 <div class="content-container">      
-	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Johannes Riedl (Siemens AG)</div>
+	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Johannes Riedl (Siemens AG): "Industrial Networking in 6G"</div>
 	<div class="content-block">
         	<img src="{{ '/assets/images/johannes-riedl.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
         	<div class="text">
             		<p>Johannes Riedl studied mathematics and physics at the LMU in Munich and finalized his PhD in mathematics at the Technical University in Munich in 2001. Afterwards he joined Siemens Information and Communication Networks as R&D engineer. There he was responsible for the development of innovative carrier network design concepts focusing on IP/Ethernet technologies. Joining Siemens Corporate Technology in July 2005, he was leading between 2006 and 2022 the Research Group ‚Industrial Networks’ focusing on wired communication network technologies for industrial networks in all Siemens business areas. Since September 2022 he is heading the Research Group "Industrial Networks & Wireless" which consists of three portfolio elements "Deterministic Communication & Edge Networks", "5G/6G/Wireless" and "Network Intelligence & Localization".</p>
         	</div>
     	</div>
-	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Rastin Pries (Nokia)</div>
+	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Rastin Pries (Nokia): "Spatial Computing in the 6G Era"</div>
     	<div class="content-block">
         	<img src="{{ '/assets/images/rastin_pries.jpg' | relative_url }}" alt="Dr. Rastin Pries" class="image left">
         	<div class="text">
