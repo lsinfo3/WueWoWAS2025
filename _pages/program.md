@@ -71,19 +71,28 @@ The program will include regular presentation sessions with ample time for quest
 ## Wednesday, 08.10.25
 [PhD Day](https://lsinfo3.github.io/WueWoWAS2025/phd_day/)
 
+For a more detailed program, including individual presentation slots, please click [here](https://lsinfo3.github.io/WueWoWAS2025/detailed_program/).
+
 # Invited Talks
-## Industrial 6G (to be confired)
+## "Industrial Networking in 6G" by Dr. Johannes Riedl (Siemens)
 ## Native AI in 6G (to be confirmed)
-## "Spatial Computing in the 6G Era" by Rastin Pries (Nokia)
+## "Spatial Computing in the 6G Era" by Dr. Rastin Pries (Nokia)
 
 # Invited Speakers
 
 <div class="content-container">      
-	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Rastin Pries (Nokia)</div>
-    <div class="content-block">
-        <img src="{{ '/assets/images/rastin_pries.jpg' | relative_url }}" alt="Rastin Pries" class="image left">
-        <div class="text">
-            <p>Rastin Pries received his master and Ph.D. degrees in computer science from the University of Wuerzburg, Germany in 2004 and 2010. In 2015, he joined Nokia, Munich, where he is currently working as a Principal Research Lead. He has more than fifteen years of experience in the telecommunication industry. Rastin was the consortium leader of several national and international research projects such as the German BMFTR lighthouse project 6G-ANNA. He is the author of numerous scientific conference and journal papers as well as patents. His research interests include extended reality, spatial computing, edge computing, and localization and mapping.</p>
-        </div>
-    </div>
+	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Johannes Riedl (Nokia)</div>
+	<div class="content-block">
+        	<img src="{{ '/assets/images/johannes-riedl.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
+        	<div class="text">
+            		<p>Johannes Riedl studied mathematics and physics at the LMU in Munich and finalized his PhD in mathematics at the Technical University in Munich in 2001. Afterwards he joined Siemens Information and Communication Networks as R&D engineer. There he was responsible for the development of innovative carrier network design concepts focusing on IP/Ethernet technologies.</p>
+        	</div>
+    	</div>
+	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Rastin Pries (Nokia)</div>
+    	<div class="content-block">
+        	<img src="{{ '/assets/images/rastin_pries.jpg' | relative_url }}" alt="Dr. Rastin Pries" class="image left">
+        	<div class="text">
+            		<p>Rastin Pries received his master and Ph.D. degrees in computer science from the University of Wuerzburg, Germany in 2004 and 2010. In 2015, he joined Nokia, Munich, where he is currently working as a Principal Research Lead. He has more than fifteen years of experience in the telecommunication industry. Rastin was the consortium leader of several national and international research projects such as the German BMFTR lighthouse project 6G-ANNA. He is the author of numerous scientific conference and journal papers as well as patents. His research interests include extended reality, spatial computing, edge computing, and localization and mapping.</p>
+        	</div>
+    	</div>
 </div>
