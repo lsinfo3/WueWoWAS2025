@@ -39,7 +39,7 @@ permalink: /program/
 
 # WueWoWAS'25 Program
 
-The program will include regular presentation sessions with ample time for questions and discussion. Due to the very positive feedback, we will again organize a speedmentoring session with invited experts from academia and industry. Participants will have the opportunity to book slots with each of the invited experts to discuss their own work, recent developments, or other professional matters. The workshop will start on Monday morning and finish Tuesday afternoon. Wednesday is organized as a PhD Day, featuring speed mentoring, tutorial-style talks, and (hands-on) experience sessions.  Details regarding the workshop program will be provided at a later date.
+The program includes regular presentation sessions with ample time for questions and discussion as well as invited talks by well known experts. Due to the very positive feedback, we will organize again a speedmentoring session for PhD students. Participants will have the opportunity to book slots with each of the invited experts to discuss their own work, recent developments, or other professional matters. Explore the [full schedule and detailed program](https://lsinfo3.github.io/WueWoWAS2025/detailed_program/) with a detailed list of technical presentation slots. 
 
 ## Monday, 06.10.25
 
@@ -70,8 +70,6 @@ The program will include regular presentation sessions with ample time for quest
 
 ## Wednesday, 08.10.25
 [PhD Day](https://lsinfo3.github.io/WueWoWAS2025/phd_day/)
-
-For a more detailed program, including individual presentation slots, please click [here](https://lsinfo3.github.io/WueWoWAS2025/detailed_program/).
 
 # Invited Speakers
 
