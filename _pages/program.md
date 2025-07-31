@@ -43,7 +43,7 @@ The program will include regular presentation sessions with ample time for quest
 
 ## Monday, 06.10.25
 
-| Start       | End         | Event                            | 
+| Start       | End         | Program                            | 
 | ----------- | ----------- | -----------------                |
 | 12:00       | 13:00       | Welcome & Finger Food            |
 | 13:00       | 14:30       | Technical Session 1              |
@@ -55,7 +55,7 @@ The program will include regular presentation sessions with ample time for quest
 
 ## Tuesday, 07.10.25
 
-| Start       | End         | Event                  | 
+| Start       | End         | Program                  | 
 | ----------- | ----------- | -----------------      |
 | 09:00       | 10:00       | Technical Session 2    |
 | 10:00       | 10:45       | Invited Talk           |
