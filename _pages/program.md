@@ -46,7 +46,7 @@ The program includes regular presentation sessions with ample time for questions
 | Start       | End         | Program                            | 
 | ----------- | ----------- | -----------------                |
 | 12:00       | 13:00       | Welcome & Finger Food            |
-| 13:00       | 14:30       | Technical Session 1              |
+| 13:00       | 14:30       | Session 1: ML & AI in 6G              |
 | 14:30       | 15:00       | Coffee break                     |
 | 15:00       | 16:30       | Invited Talks                    |
 | 16:30       | 17:30       | Speed Mentoring & Get-together   |
@@ -57,14 +57,14 @@ The program includes regular presentation sessions with ample time for questions
 
 | Start       | End         | Program                  | 
 | ----------- | ----------- | -----------------      |
-| 09:00       | 10:00       | Technical Session 2    |
+| 09:00       | 10:00       | Session 2: TSN    |
 | 10:00       | 10:45       | Invited Talk           |
 | 10:45       | 11:15       | Coffee break           |
-| 11:15       | 12:45       | Technical Session 3    |
+| 11:15       | 12:45       | Session 3: 6G Use Cases    |
 | 12:45       | 14:00       | Lunch                  |
-| 14:00       | 15:30       | Technical Session 4    |
+| 14:00       | 15:30       | Session 4: Sustainability & Resilience    |
 | 15:30       | 16:00       | Coffee break           |
-| 16:00       | 17:00       | Technical Session 5    |
+| 16:00       | 17:00       | Session 5: Open RAN    |
 | 17:00       | 17:30       | Reviewer Reflection & Feedback Forum    |
 | 19:00       | open end    | Get-together: open ITG KT2 Discussions    |
 
