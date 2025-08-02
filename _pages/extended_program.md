@@ -15,7 +15,7 @@ permalink: /detailed_program/
 | | | '*An Agentic Workflow for the Remediation of Silent Misconfigurations in IaC Deployments*' by Kuba Domagala, Aditya Ganesh, Piotr Zuraniewski and Srinath Potnuru (TNO, The Netherlands) | 
 | | | '*An AI Assisted Intent Based Network Management System for Open Campus Networks*' by Varun Gowtham (Fraunhofer FOKUS, Germany); Thomas Magedanz (Fraunhofer Institute FOKUS / TU Berlin, Germany) | 
 | 14:30       | 15:00       | Coffee break                     |
-| 15:00       | 16:30       | [Invited Talks](/program/)                    |
+| 15:00       | 16:30       | [Invited Talks](/WueWoWAS2025/program/)                    |
 | 16:30       | 17:30       | Speed Mentoring & Get-together   |
 | 19:00       | open end    | Social Event                     |
 
@@ -28,7 +28,7 @@ permalink: /detailed_program/
 | 09:00       | 10:00       | **Session 2: TSN**    |
 | | | '*A Novel Method to Improve gPTP Based Time Synchronization Accuracy for Asymmetric 5G Links*' by Anas Bin Muslim and Ralf Tönjes (University of Applied Sciences Osnabrück, Germany); Thomas Bauschert (Chemnitz University of Technology, Germany) | 
 | | | '*A Modular CNC for Time-Aware Shaping in TSN*' by Anas Bin Muslim (University of Applied Sciences Osnabrück, Germany); Felix Meyer (University of Applied Sciences Osnabrueck, Germany); Ralf Tönjes (University of Applied Sciences Osnabrück, Germany) | 
-| 10:00       | 10:45       | [Invited Talk](/program/)           |
+| 10:00       | 10:45       | [Invited Talk](/WueWoWAS2025/program/)           |
 | 10:45       | 11:15       | Coffee break           |
 | 11:15       | 12:45       | **Session 3:  6G Use Cases**    |
 | | | '*Extended Abstract: User Perspective on Island-Ready 6G Communication*' by Leon Janzen (Technical University of Darmstadt, Germany); Florentin Putz (TU Darmstadt, Germany); Marc-André Kaufhold and Kolja Straub (Technical University of Darmstadt, Germany); Matthias Hollick (Technische Universität Darmstadt & Secure Mobile Networking Lab, Germany) | 
