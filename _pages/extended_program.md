@@ -16,7 +16,7 @@ permalink: /detailed_program/
 | | | '*An AI Assisted Intent Based Network Management System for Open Campus Networks*' by Varun Gowtham (Fraunhofer FOKUS, Germany); Thomas Magedanz (Fraunhofer Institute FOKUS / TU Berlin, Germany) | 
 | 14:30       | 15:00       | Coffee break                     |
 | 15:00       | 16:30       | [Invited Talks](/WueWoWAS2025/program/)                    |
-| 16:30       | 17:30       | Speed Mentoring & Get-together   |
+| 16:30       | 17:30       | [Speed Mentoring](/WueWoWAS2025/mentoring/)         & Get-together   |
 | 19:00       | open end    | Social Event                     |
 
 ***
