@@ -38,12 +38,15 @@ permalink: /mentoring/
 
 # Speedmentoring
 
-For the first time this year, we will have a speedmentoring session to give participants the chance to get in contact with experts from industry and academia, discuss ongoing research, current developments or other professional matters.
+Following the very positive feedback from previous events, we are pleased to offer another **Speedmentoring Session** for PhD students.
 
-The speedmentoring session will take place on Monday, 30.09.2024 and require explicit registration. The registration will be handled via edas during the registration for the workshop.
+This session provides a unique opportunity to engage directly with leading experts from both academia and industry. Participants will be able to book short, focused meetings to discuss their research, recent developments in the field, or broader career-related questions.
 
-Note that available mentoring slots are limited and exclusive to participating PhD students. We will try our best to assign the slots equally among the registered students.
+The Speedmentoring Session will take place on **Monday, October 6, 2025**, and **requires prior registration**. Please note that the number of available slots is limited and **exclusively reserved for participating PhD students**. We will make every effort to distribute the slots fairly among all registered participants.
 
+Further details will be shared with registered attendees soon.
+
+ <!-- 
 <div class="content-container">
         <div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Andra Elena Lutu (Telefonica Research)</div>
         <div class="content-block">
@@ -72,8 +75,7 @@ Note that available mentoring slots are limited and exclusive to participating P
             <div class="text">
                 <p>Christian received his Dipl.-Ing. (MSc equivalent) and Dr.-Ing. (Ph.D) degrees from University of Kaiserslautern in 2008 and 2014, respectively. His PhD thesis tackled Context-Enabled Optimization of Energy-Autarkic Networks for Carrier-Grade Wireless Backhauling. Christian joined Nokia in 2015 and heads the Network Architecture Research department at Nokia Strategy & Technology, Standards in Munich, Germany since 2020. In the past, he has been working on 5G network architecture research and standardization, including leadership roles in funded projects (EU and national level). He now focuses on technology enablers for the 6th generation (6G) of mobile networks and their integration into RAN and overall system architecture. Before becoming department head, he has been a member of the Network Automation Research department at Nokia Bell Labs, where he has been working in the area of cognitive network management and SON for 5G systems. Christian is co-author of numerous publications and patents (applications) in the field of mobile networking technologies. He also is co-editor and co-author of a book on Cognitive Autonomous Networks - Network Management Automation for 5G and Beyond.</p>
             </div>
-        </div>
-        <!-- Add more content blocks as needed -->
+        </div>        
     </div>
 
-
+-->
