@@ -74,13 +74,23 @@ The program includes regular presentation sessions with ample time for questions
 # Invited Speakers
 
 <div class="content-container">      
+
+	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Henning Sanneck (Apple): "Towards Native AI/ML in 6G: a UE perspective"</div>
+	<div class="content-block">
+        	<img src="{{ '/assets/images/sanneck1.jpeg' | relative_url }}" alt="Henning Sanneck" class="image left">
+        	<div class="text">
+            		<p>Henning Sanneck is Research Manager, Wireless Technology at Apple, Munich, Germany. After he received his Dr.-Ing. (PhD) degree in Electrical Engineering from the Technical University of Berlin in 2000, Henning joined Siemens - Mobile Networks, becoming an Innovation Project Manager in 2003. In 2007, at the formation of Nokia Siemens Networks, he started to lead a line team, creating Self Organizing Networks (SON) concepts and demos, and later applying Analytics and Machine Learning technologies to this area using both network data- and simulation-based approaches. From 2016 to 2022 Henning acted as Nokia Department Head for 5G / 6G Network Automation Research, providing vision, strategy, concepts and IPR to support 3GPP, ORAN and ETSI standardization efforts. In 2023 Henning was Chief Architect AI/ML in Nokia Standards. Henning has 100 publications and 50 patents granted or published. He was co-editor of the book "LTE Self-Organizing Networks" (2011) and co-author of the book "Towards Cognitive Autonomous Networks" (2020).</p>
+        	</div>
+    </div>
+ 
 	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Johannes Riedl (Siemens AG): "Industrial Networking in 6G"</div>
 	<div class="content-block">
         	<img src="{{ '/assets/images/johannes-riedl.jpg' | relative_url }}" alt="Dr. Johannes Riedl" class="image left">
         	<div class="text">
             		<p>Johannes Riedl studied mathematics and physics at the LMU in Munich and finalized his PhD in mathematics at the Technical University in Munich in 2001. Afterwards he joined Siemens Information and Communication Networks as R&D engineer. There he was responsible for the development of innovative carrier network design concepts focusing on IP/Ethernet technologies. Joining Siemens Corporate Technology in July 2005, he was leading between 2006 and 2022 the Research Group ‚Industrial Networks’ focusing on wired communication network technologies for industrial networks in all Siemens business areas. Since September 2022 he is heading the Research Group "Industrial Networks & Wireless" which consists of three portfolio elements "Deterministic Communication & Edge Networks", "5G/6G/Wireless" and "Network Intelligence & Localization".</p>
         	</div>
-    	</div>
+    </div>
+	
 	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Rastin Pries (Nokia): "Spatial Computing in the 6G Era"</div>
     	<div class="content-block">
         	<img src="{{ '/assets/images/rastin_pries.jpg' | relative_url }}" alt="Dr. Rastin Pries" class="image left">
