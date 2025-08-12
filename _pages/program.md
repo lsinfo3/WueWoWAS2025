@@ -76,7 +76,7 @@ The program includes regular presentation sessions with ample time for questions
 <div class="content-container">      
 	<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Dr. Henning Sanneck (Apple): "Towards Native AI/ML in 6G: a UE perspective"</div>
 	<div class="content-block">
-        	<img src="{{ '/assets/images/sanneck1.jpeg' | relative_url }}" alt="Henning Sanneck" class="image left">
+        	<img src="{{ '/assets/images/sanneck1_cropped.jpeg' | relative_url }}" alt="Henning Sanneck" class="image left">
         	<div class="text">
             		<p>Henning Sanneck is Research Manager, Wireless Technology at Apple, Munich, Germany. After he received his Dr.-Ing. (PhD) degree in Electrical Engineering from the Technical University of Berlin in 2000, Henning joined Siemens - Mobile Networks, becoming an Innovation Project Manager in 2003. In 2007, at the formation of Nokia Siemens Networks, he started to lead a line team, creating Self Organizing Networks (SON) concepts and demos, and later applying Analytics and Machine Learning technologies to this area using both network data- and simulation-based approaches. From 2016 to 2022 Henning acted as Nokia Department Head for 5G / 6G Network Automation Research, providing vision, strategy, concepts and IPR to support 3GPP, ORAN and ETSI standardization efforts. In 2023 Henning was Chief Architect AI/ML in Nokia Standards. Henning has 100 publications and 50 patents granted or published. He was co-editor of the book "LTE Self-Organizing Networks" (2011) and co-author of the book "Towards Cognitive Autonomous Networks" (2020).</p>
         	</div>
