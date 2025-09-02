@@ -13,8 +13,8 @@ main:
  #   url: /submission/
  # - title: "Speedmentoring"
  #   url: /mentoring/
- # - title: "Venue"
- #   url: /venue/
+  - title: "Venue"
+    url: /venue/
 #  - title: "Download"
  #   url: /abstracts/
  # - title: "Program"
