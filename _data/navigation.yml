@@ -13,9 +13,7 @@ main:
  #   url: /submission/
  # - title: "Speedmentoring"
  #   url: /mentoring/
-  - title: "Venue"
-    url: /venue/
-#  - title: "Download"
+ # - title: "Download"
  #   url: /abstracts/
  # - title: "Program"
  #   url: /program/
@@ -23,6 +21,8 @@ main:
  #   url: /abstracts/
   - title: "PhD Day"
     url: /phd_day/
+  - title: "Venue"
+    url: /venue/
   - title: "Committee"
     url: /committee/
   - title: "Sponsors"
