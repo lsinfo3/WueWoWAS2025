@@ -48,7 +48,8 @@ The program includes regular presentation sessions with ample time for questions
 | 12:00       | 13:00       | Welcome & Finger Food            |
 | 13:00       | 14:30       | Session 1: ML & AI in 6G              |
 | 14:30       | 15:00       | Coffee break                     |
-| 15:00       | 16:30       | Invited Talks                    |
+| 15:00       | 16:30       | [Dr. Henning Sanneck (Apple): "Towards Native AI/ML in 6G: a UE perspective"](/WueWoWAS2025/program/)                    |
+| | |  [Dr. Johannes Riedl (Siemens AG): "Industrial Networking in 6G"](/WueWoWAS2025/program/)        |
 | 16:30       | 17:30       | Speed Mentoring & Get-together   |
 | 19:00       | open end    | Social Event                     |
 
@@ -58,7 +59,7 @@ The program includes regular presentation sessions with ample time for questions
 | Start       | End         | Program                  | 
 | ----------- | ----------- | -----------------      |
 | 09:00       | 10:00       | Session 2: TSN    |
-| 10:00       | 10:45       | Invited Talk           |
+| 10:00       | 10:45       | [Dr. Rastin Pries (Nokia): "Spatial Computing in the 6G Era"](/WueWoWAS2025/program/)           |
 | 10:45       | 11:15       | Coffee break           |
 | 11:15       | 12:45       | Session 3: 6G Use Cases    |
 | 12:45       | 14:00       | Lunch                  |
