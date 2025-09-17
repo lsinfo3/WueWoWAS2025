@@ -77,7 +77,7 @@ Further details will be shared with registered attendees soon.
 Guido Dietl received his Dipl.-Ing. and Dr.-Ing. degrees (both summa cum laude) in Electrical Engineering and Information Technology from the Technical University of Munich. He has held various academic and research positions, including roles at Purdue University, the Australian National University, and DOCOMO Euro-Labs, where he focused on advanced wireless communication technologies. Since April 2022, he has been a Professor of Satellite Communication and Radar Systems at the University of Würzburg. </p>
         	</div>
     	</div>
-<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Prof. Dr. Amr Rizk (Leibnitz University Hannover)</div>
+<div style="width:100%; background-color: #FEFEFE; color: #252A34; font-weight: bold; margin-bottom: 10px; padding-left: 170px;">Prof. Dr. Amr Rizk (Leibniz University Hannover)</div>
     	<div class="content-block">
         	<img src="{{ '/assets/images/amr.jpg' | relative_url }}" alt="Prof. Dr. Amr Rizk" class="image left">
         	<div class="text">
