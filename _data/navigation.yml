@@ -11,8 +11,8 @@ main:
     url: /authors/
  # - title: "Submission"
  #   url: /submission/
- # - title: "Speedmentoring"
- #   url: /mentoring/
+ - title: "Speedmentoring"
+   url: /mentoring/
  # - title: "Download"
  #   url: /abstracts/
  # - title: "Program"
