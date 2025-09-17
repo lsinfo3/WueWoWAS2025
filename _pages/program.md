@@ -50,7 +50,7 @@ The program includes regular presentation sessions with ample time for questions
 | 14:30       | 15:00       | Coffee break                     |
 | 15:00       | 16:30       | [Dr. Henning Sanneck (Apple): "Towards Native AI/ML in 6G: a UE perspective"](/WueWoWAS2025/program/)                    |
 | | |  [Dr. Johannes Riedl (Siemens AG): "Industrial Networking in 6G"](/WueWoWAS2025/program/)        |
-| 16:30       | 17:30       | [Speed Mentoring](/mentoring/) & Get-together   |
+| 16:30       | 17:30       | [Speed Mentoring](https://lsinfo3.github.io/WueWoWAS2025/mentoring/) & Get-together   |
 | 19:00       | open end    | Social Event                     |
 
 
