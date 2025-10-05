@@ -3,26 +3,28 @@ main:
     url: /
   - title: "CfP"
     url: /cfp/
-  - title: "Program"
-    url: /program/
-  - title: "Registration"
-    url: /registration/
+  - title: "Programm"
+    url: /detailed_program/  
+  - title: "Invited Speaker"
+    url: /program/    
+  - title: "Speedmentoring"
+    url: /mentoring/
+  - title: "PhD Day"
+    url: /phd_day/
+  - title: "Venue"
+    url: /venue/    
   - title: "Authors"
     url: /authors/
  # - title: "Submission"
- #   url: /submission/
-  - title: "Speedmentoring"
-    url: /mentoring/
+ #   url: /submission/  
  # - title: "Download"
  #   url: /abstracts/
  # - title: "Program"
  #   url: /program/
  # - title: "Download"
  #   url: /abstracts/
-  - title: "PhD Day"
-    url: /phd_day/
-  - title: "Venue"
-    url: /venue/
+  - title: "Registration"
+    url: /registration/
   - title: "Committee"
     url: /committee/
   - title: "Sponsors"
