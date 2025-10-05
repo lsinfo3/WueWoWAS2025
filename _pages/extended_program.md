@@ -53,13 +53,13 @@ permalink: /detailed_program/
 
 | Start       | End         | Tutorial                  | 
 | ----------- | ----------- | -----------------      |
-| 09:00       | 10:30       |  Introduction to **Quantum Communication** using Computer Science and Performance Evaluation by Karim Elsayed, Univ. Hannover|
+| 09:00       | 10:30       |  Introduction to [**Quantum Communication** using Computer Science and Performance Evaluation](/WueWoWAS2025/phd_day/) by Karim Elsayed, Univ. Hannover|
 | 10:30       | 11:00       | Coffee break           |
-| 11:00       | 12:30       |  **Energy Measurements**, Metrics, Models by Frank Loh, Tobias Hoßfeld, Univ. Würzburg |
+| 11:00       | 12:30       |  [**Energy Measurements**, Metrics, Models](/WueWoWAS2025/phd_day/) by Frank Loh, Tobias Hoßfeld, Univ. Würzburg |
 | 12:30       | 14:00       | Lunch                  |
-| 14:00       | 15:30       |  **Open RAN** and 5G Campus Networks Setup and Measurements by Stanislav Lange, NTNU Trondheim |
+| 14:00       | 15:30       |  [**Open RAN** and 5G Campus Networks Setup and Measurements](/WueWoWAS2025/phd_day/) by Stanislav Lange, NTNU Trondheim |
 | 15:30       | 16:00       | Coffee break           |
-| 16:00       | 17:30       | **Resilience** and **Sovereignty** Metrics and Models by Carmen Mas Machuca, UniBw München      |
+| 16:00       | 17:30       | [**Resilience** and **Sovereignty** Metrics and Models](/WueWoWAS2025/phd_day/) by Carmen Mas Machuca, UniBw München      |
 
 
 
