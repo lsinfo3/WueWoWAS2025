@@ -39,7 +39,7 @@ permalink: /phd_day/
 
 # PhD Day
 
-Wednesday, the third day of the workshop, is organized as a PhD Day, featuring speed mentoring, tutorial-style talks, and (hands-on) experience sessions. 
+Wednesday, the third day of the workshop, is organized as a PhD Day, featuring tutorial-style talks, and (hands-on) experience sessions. 
 
 ## Tutorial Schedule
 ### 9:00-10:30 - Introduction to Quantum Communication using Computer Science and Performance Evaluation
