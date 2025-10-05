@@ -9,7 +9,8 @@ permalink: /detailed_program/
 
 | Start       | End         | Event                            | 
 | ----------- | ----------- | -----------------                |
-| 12:00       | 13:00       | Welcome & Finger Food            |
+| 12:00       | 12:45       | Welcome & Finger Food            |
+| 12:45       | 13:00       | Opening            |
 | 13:00       | 14:30       | **Session 1: ML & AI in 6G** |          
 | | | '[*From Data to Decisions: Cross-Domain QoS Optimization via RIC Telemetry and ML*](https://doi.org/10.25972/OPUS-42475)' by Suneet Kumar Singh (Norwegian University of Science and Technology, Norway); Dalibor Zeman (VSB - Technical University of Ostrava, Czech Republic); Stanislav Lange and Thomas Zinner (NTNU, Norway) | 
 | | | '[*An Agentic Workflow for the Remediation of Silent Misconfigurations in IaC Deployments*](https://doi.org/10.25972/OPUS-42476)' by Kuba Domagala, Aditya Ganesh, Piotr Zuraniewski and Srinath Potnuru (TNO, The Netherlands) | 
