@@ -42,10 +42,10 @@ permalink: /detailed_program/
 | | | '[*Investigating the Correlation Between Minimal Cut Set and Flow Availabilities*](https://doi.org/10.25972/OPUS-42477)' by Shakthivelu Janardhanan and Adrian Ignacio Gomez Ryfka (Technical University of Munich, Germany); Carmen Mas-Machuca (University of the Bundeswehr Munich (UniBW), Germany) | 
 | | | '[*Balancing Sustainability and Performability: a Markov Model of a Photovoltaic-Powered Server Cluster Under Varying Load*](https://doi.org/10.25972/OPUS-42473)' by Carina Baur (University of Würzburg, Germany); Theresa Paulus (University of Stuttgart, Institute of Power Transmission and High Voltage Techno, Germany); Frank Loh (University of Wuerzburg, Germany); Krzysztof Rudion (Universität Stuttgart, Germany); Tobias Hoßfeld (University of Würzburg, Germany) | 
 | 15:30       | 16:00       | Coffee break           |
-| 16:00       | 17:00       | **Session 5: Open RAN**    |
+| 16:00       | 17:00       | **Session 5: Open RAN** (Chair: Simon Raffeck)  |
 | | | '[*Optimizing RAN Lifecycle Management for Industrial 5G: a Lightweight Deployment Framework*](https://doi.org/10.25972/OPUS-42481)' by Hubert Djuitcheu (Adtran, Germany); Andrew Sergeev (Adtran Networks SE, Israel); Achim Autenrieth (Adtran, Germany); Jochen Seitz (Technische Universitaet Ilmenau, Germany) | 
 | | | '[*UE-Based Proactive Handover in Industrial O-RAN Deployment*](https://doi.org/10.25972/OPUS-42480)' by Hubert Djuitcheu (Adtran, Germany); Andrew Sergeev (Adtran Networks SE, Israel); Achim Autenrieth (Adtran, Germany); Maik Debes (Ilmenau University of Technology, Germany); Jochen Seitz (Technische Universitaet Ilmenau, Germany) | 
-| 17:00       | 17:30       | Reviewer Reflection & Feedback Forum  (Tobias Hoßfeld)  |
+| 17:00       | 17:30       | Reviewer Reflection & Feedback Forum  (Chairs: Tobias Hoßfeld, Viktoria Vomhoff)  |
 | 19:00       | open end    | Get-together: open ITG KT2 Discussions    |
 
 ***
