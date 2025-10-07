@@ -51,6 +51,7 @@ permalink: /detailed_program/
 ***
 
 ## Wednesday, 8 Oct 2025: PhD Day
+Note: The tutorials take place in **room 2.010 in building Z6** on the University Campus Hubland South, see [Venue Information](/WueWoWAS2025/venue/)
 
 | Start       | End         | Tutorial                  | 
 | ----------- | ----------- | -----------------      |
