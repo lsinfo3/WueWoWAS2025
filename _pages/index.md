@@ -6,7 +6,7 @@ permalink: /
 The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks (WueWoWAS) focuses on preliminary and ongoing research (or previously published hot topic papers) on next-generation communication networks and the different ways of analyzing systems (WAS).
 
 ## Best Student Paper Award
-We congratulate Shakthivelu Janardhanan for receiving the Best Paper Award at WueWoWAS'25 for his work titled *Investigating the Correlation Between Minimal Cut Set and Flow Availabilities*, coauthored by Adrian Ignacio Gomez Ryfka and Carmen Mas-Machuca. Download the paper from the [online program][/WueWoWAS2025/detailed_program/)
+We congratulate Shakthivelu Janardhanan for receiving the Best Paper Award at WueWoWAS'25 for his work titled *Investigating the Correlation Between Minimal Cut Set and Flow Availabilities*, coauthored by Adrian Ignacio Gomez Ryfka and Carmen Mas-Machuca. Download the paper from the [online program](/WueWoWAS2025/detailed_program/)
 
 <img src="{{ '/assets/images/WueWoWAS25-BestStudentPaperAward.png' | relative_url }}" alt="Best Student Paper Award">
 
