@@ -52,10 +52,10 @@ Quantum communication forms the foundation for connecting multiple quantum compu
 ***
 
 ### 11:00-12:30 - Energy Measurements, Metrics, Models
-**Speaker: Frank Loh, Tobias Hoßfeld, Univ. Würzburg**
+**Speaker: Frank Loh, Univ. Würzburg**
 
 <div style="margin-left: 20px;">
-In this tutorial, we will present methods for measuring power consumption in communication networks as well as software-based approaches for approximating the power consumption. Energy efficiency metrics from literature and standaridzation will be revisited. Furthermore, commonly used energy consumption models liked load-dependent or sleep-mode-aware models are introduced.
+In this tutorial, we will present methods for measuring power consumption in communication networks as well as software-based approaches for approximating the power consumption. Furthermore, pitfalls in high precision energy measurements are discussed. Energy efficiency metrics from literature and standaridzation will be revisited. Finally, the impact of using the wrong energy efficiency metric is showcased.
 </div>
 
 ***
