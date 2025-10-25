@@ -47,6 +47,8 @@ Wednesday, the third day of the workshop, is organized as a PhD Day, featuring t
 
 <div style="margin-left: 20px;">
 Quantum communication forms the foundation for connecting multiple quantum computers to collaboratively solve complex problems. This approach is driven by the difficulty of sustaining large-scale quantum systems. Unlike classical communication, quantum communication is governed by unique quantum properties, requiring fundamentally new concepts and techniques. In this tutorial, we will explain the core principles of quantum communication, its unique features, and evaluate the performance of the communication system for different approaches in light of these distinctive features.
+
+ Slides available online: [DOI 10.25972/OPUS42659](https://doi.org/10.25972/OPUS-42659) 
 </div>
 
 ***
@@ -56,6 +58,8 @@ Quantum communication forms the foundation for connecting multiple quantum compu
 
 <div style="margin-left: 20px;">
 In this tutorial, we will present methods for measuring power consumption in communication networks as well as software-based approaches for approximating the power consumption. Furthermore, pitfalls in high precision energy measurements are discussed. Energy efficiency metrics from literature and standaridzation will be revisited. Finally, the impact of using the wrong energy efficiency metric is showcased.
+
+ Slides available online: [DOI 10.25972/OPUS-42661](https://doi.org/10.25972/OPUS-42661)) 
 </div>
 
 ***
@@ -66,6 +70,8 @@ In this tutorial, we will present methods for measuring power consumption in com
 
 <div style="margin-left: 20px;">
 In this tutorial, we will discuss key building blocks for setting up a private 5G testbed using Software-Defined Radios (SDRs), open source software components such as OpenAirInterface and srsRAN, and off-the-shelf modems / phones. Furthermore, we will cover case studies highlighting research challenges as well as lessons learned in terms of measurement automation and reproducibility. 
+
+Slides available online: [DOI 10.25972/OPUS42669](https://doi.org/10.25972/OPUS-42669) 
 </div>
 
 ***
@@ -75,6 +81,8 @@ In this tutorial, we will discuss key building blocks for setting up a private 5
 
 <div style="margin-left: 20px;">
 This tutorial will give an overview of the different metrics that can be used to evaluate the sovereignty and resilience of a system. We will also present existing models for these metrics, as well as use cases where they have been applied. 
+
+Slides available online: [DOI 10.25972/OPUS-42671](https://doi.org/10.25972/OPUS-42671) 
 </div>
 
 ***
