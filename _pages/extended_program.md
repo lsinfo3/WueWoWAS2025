@@ -4,6 +4,9 @@ permalink: /detailed_program/
 ---
 
 # Detailed Program
+A short report on the technical scope, keynote talks and tutorials, as well as the speed mentoring and reviewer reflection forum is available on the [ITG KT 2 website](https://sites.google.com/view/vde-itg-kt2/report-wuewowas25).
+
+A detailed report is published as part of the workshop proceedings: [DOI 10.25972/OPUS-42709](https://doi.org/10.25972/OPUS-42709).
 
 ## Monday, 6 Oct 2025: Workshop Day 1
 
