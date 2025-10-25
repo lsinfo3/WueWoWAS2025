@@ -8,7 +8,7 @@ The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Net
 ## Report on Program and Event
 A short report on the technical scope, keynote talks and tutorials, as well as the speed mentoring and reviewer reflection forum is available on the [ITG KT 2 website](https://sites.google.com/view/vde-itg-kt2/report-wuewowas25).
 
-A detailed report is published as part of the workshop proceedings: (https://doi.org/10.25972/OPUS-42709).
+A detailed report is published as part of the workshop proceedings: [DOI 10.25972/OPUS-42709](https://doi.org/10.25972/OPUS-42709).
 
 ## Best Student Paper Award
 We congratulate Shakthivelu Janardhanan for receiving the Best Paper Award at WueWoWAS'25 for his work titled *Investigating the Correlation Between Minimal Cut Set and Flow Availabilities*, coauthored by Adrian Ignacio Gomez Ryfka and Carmen Mas-Machuca. Download the paper from the [online program](/WueWoWAS2025/detailed_program/)
