@@ -59,7 +59,7 @@ Quantum communication forms the foundation for connecting multiple quantum compu
 <div style="margin-left: 20px;">
 In this tutorial, we will present methods for measuring power consumption in communication networks as well as software-based approaches for approximating the power consumption. Furthermore, pitfalls in high precision energy measurements are discussed. Energy efficiency metrics from literature and standaridzation will be revisited. Finally, the impact of using the wrong energy efficiency metric is showcased.
 
- Slides available online: [DOI 10.25972/OPUS-42661](https://doi.org/10.25972/OPUS-42661)) 
+ Slides available online: [DOI 10.25972/OPUS-42661](https://doi.org/10.25972/OPUS-42661) 
 </div>
 
 ***
